@@ -14,7 +14,7 @@ const mapping = {
   channel: 6
 };
 
-const THROTTLE = 10000; // throttle for requesting geo data from service in milliseconds
+const THROTTLE = 200; // throttle for requesting geo data from service in milliseconds
 
 Meteor.startup(function() {
   // Read in CSV file
@@ -48,15 +48,26 @@ Meteor.startup(function() {
   });
   // Perform reverse geocoding using Nomatim (http://nominatim.openstreetmap.org)
   // We do this in a throttled mode to prevent too high load on their server
-  const events = eventsCollection.find().fetch();
-  _.forEach(events, (event) => {
+  const cursor = eventsCollection.find();
+  const events = cursor.fetch();
+  const numberOfEvents = cursor.count();
+  _.forEach(events, (event, index) => {
+    console.log('processing event ' + index + ' of ' + numberOfEvents);
     Meteor.sleep(THROTTLE);
     const address = encodeURI(event.address);
+    // Retrieve geolocation data from Nomatim
     HTTP.get(`${nominatimServerBase}?q=${address}&format=json`, (error, result) => {
       if (error) {
         return;
       }
       const locationData = result.data[0];
+      if (!locationData) {
+        // If no geolocation can be found, remove the event
+        eventsCollection.remove({
+          _id: event._id
+        });
+        return;
+      }
       eventsCollection.update({
         _id: event._id
       }, {
@@ -70,11 +81,10 @@ Meteor.startup(function() {
             coordinates: [
               [locationData.boundingbox]
             ]
-          }
+          },
+          'location.data': locationData
         }
       });
-      console.log(event._id);
-      console.dir(locationData);
     });
   });
 });
