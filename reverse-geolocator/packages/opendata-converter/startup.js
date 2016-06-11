@@ -52,8 +52,7 @@ Meteor.startup(function() {
   const events = cursor.fetch();
   const numberOfEvents = cursor.count();
   _.forEach(events, (event, index) => {
-    console.log('processing event ' + index + ' of ' + numberOfEvents);
-    Meteor.sleep(THROTTLE);
+    console.log(`processing event ${index} of ${numberOfEvents}`);
     const address = encodeURI(event.address);
     // Retrieve geolocation data from Nomatim
     HTTP.get(`${nominatimServerBase}?q=${address}&format=json`, (error, result) => {
@@ -86,5 +85,7 @@ Meteor.startup(function() {
         }
       });
     });
+    // Be nice to the server
+    Meteor.sleep(THROTTLE);
   });
 });
