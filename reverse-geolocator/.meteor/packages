@@ -35,4 +35,5 @@ underscore
 # Custom packages
 #
 
+hololens:app-main
 hololens:opendata-converter
