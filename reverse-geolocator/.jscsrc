@@ -1,0 +1,72 @@
+{
+  "requireCurlyBraces": [
+        "if",
+        "else",
+        "for",
+        "while",
+        "do",
+        "try",
+        "catch"
+    ],
+  "requireOperatorBeforeLineBreak": true,
+  "requireParenthesesAroundIIFE": true,
+  "requireCommaBeforeLineBreak": true,
+  "requireCamelCaseOrUpperCaseIdentifiers": true,
+  "requireDotNotation": "except_snake_case",
+  "requireSpacesInForStatement": true,
+  "requireSpaceBetweenArguments": true,
+  "maximumLineLength": {
+    "value": 120,
+    "tabSize": 2,
+    "allExcept": ["urlComments", "regex"]
+  },
+  "validateQuoteMarks": true,
+  "disallowMixedSpacesAndTabs": "smart",
+  "disallowTrailingWhitespace": true,
+  "disallowMultipleLineStrings": true,
+  "disallowTrailingComma": true,
+
+  "requireSpaceBeforeBlockStatements": true,
+  "requireSpacesInFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "requireSpaceAfterKeywords": [
+        "if",
+        "else",
+        "for",
+        "while",
+        "do",
+        "switch",
+        "return",
+        "try",
+        "catch"
+    ],
+  "requireSpacesInsideObjectBrackets": "all",
+  "requireSemicolons": true,
+  "requireSpacesInConditionalExpression": true,
+  "requireSpaceAfterBinaryOperators": true,
+  "requireSpaceBeforeBinaryOperators": [
+        "=", "+=", "-=", "*=", "/=", "%=", "<<=", ">>=", ">>>=",
+        "&=", "|=", "^=", "+=",
+
+        "+", "-", "*", "/", "%", "<<", ">>", ">>>", "&",
+        "|", "^", "&&", "||", "===", "==", ">=",
+        "<=", "<", ">", "!=", "!=="
+    ],
+  "requireSpacesInAnonymousFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "requireSpacesInNamedFunctionExpression": {
+    "beforeOpeningCurlyBrace": true
+  },
+  "validateLineBreaks": null,
+
+  "disallowKeywords": ["with"],
+  "disallowKeywordsOnNewLine": ["else"],
+  "disallowSpaceAfterObjectKeys": true,
+  "disallowSpaceAfterPrefixUnaryOperators": true,
+  "disallowSpaceBeforePostfixUnaryOperators": true,
+  "disallowSpaceBeforeBinaryOperators": [",", ":"],
+  "disallowMultipleLineBreaks": true,
+  "esnext": true
+}
