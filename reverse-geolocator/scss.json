@@ -1,0 +1,14 @@
+{
+  "includePaths": [
+    ".meteor/local/build/programs/server/assets/packages/francocatena_compass",
+    "packages",
+    "../../packages/meteor"
+  ],
+  "useIndex": true,
+  "indexFilePath": "client/stylesheets/main.scss",
+  "enableAutoprefixer": true,
+  "autoprefixerOptions": {
+    "browsers": ["> 5%"],
+    "cascade": false
+  }
+}

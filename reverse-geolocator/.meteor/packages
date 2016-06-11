@@ -1,0 +1,38 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+#
+# Meteor standard packages
+#
+
+audit-argument-checks
+blaze-html-templates
+check
+ecmascript
+ejson
+jquery
+logging
+meteor-base
+mobile-experience
+mongo
+random
+reactive-var
+reload
+service-configuration
+session
+spacebars
+tracker
+underscore
+
+#
+# Community packages
+#
+
+#
+# Custom packages
+#
+
+hololens:opendata-converter

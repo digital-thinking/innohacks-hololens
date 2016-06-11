@@ -1,0 +1,20 @@
+{
+    "regex": {
+        "prefix": "(?:\\/\\*|\\/\\/|#|<!--) *@?(",
+        "suffix": "):? *(.*?) ?(?=\\*/|\\n|$|-->)"
+    },
+    "tags": [
+        "TODO",
+        "NOTE",
+        "FIX ?ME",
+        "CHANGES",
+        "FUTURE",
+				"FINALIZE:#909"
+    ],
+    "case": true,
+    "search": {
+        "scope": "project",
+        "excludeFolders": [".meteor",".storyboard"],
+        "excludeFiles": []
+    }
+}
