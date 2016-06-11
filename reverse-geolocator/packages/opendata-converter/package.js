@@ -14,5 +14,5 @@ Package.onUse(function(api) {
   api.versionsFrom('1.1.0.3');
   api.use(['ecmascript', 'random', 'mongo']);
   api.addFiles('startup.js', 'server');
-  api.addAssets('Vornamensliste2015.csv', 'server');
+  api.addAssets('ka-feedback-2015.csv', 'server');
 });
