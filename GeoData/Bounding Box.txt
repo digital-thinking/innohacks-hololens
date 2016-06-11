@@ -1,0 +1,7 @@
+Bounding Box of the Karlsruhe Map (Latitudes and Longitudes)
+
+	49.0115
+
+8.3941		8.4133
+
+	49.0069
