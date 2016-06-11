@@ -21,11 +21,13 @@ Meteor.startup(function() {
   // Remove header line at the top
   eventsRecords.shift();
   // Remove quotation marks and commata from strings
-  const re = /(.*)\"(.*),(.*),(.*)\"(.*)/;
+  const re = /(.*)\"(.*)#(.*)#(.*)\"(.*)/;
   eventsCollection.remove({});
+  // Loop through the event records and store them into MongoDB
   _.forEach(eventsRecords, (record) => {
-    record = record.replace(re, '$1$2$3$4$5');
-    const splitRecord = record.split(',');
+    record = record.replace(/,/g, '#');
+    record = record.replace(re, '$1$2,$3,$4$5');
+    const splitRecord = record.split('#');
     if (splitRecord[mapping.address] === '') {
       // Skip records without address
       return;
@@ -40,4 +42,8 @@ Meteor.startup(function() {
       channel: splitRecord[mapping.channel],
     });
   });
+  // Perform reverse geocoding using Nomatim (http://nominatim.openstreetmap.org)
+  // We do this in a throttled mode to prevent too high load on their server
+  const eventsCursor = eventsCollection.find().fetch();
+  console.dir(eventsCursor);
 });

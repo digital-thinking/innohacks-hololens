@@ -12,7 +12,8 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.3');
-  api.use(['ecmascript', 'random', 'mongo']);
+  api.use(['ecmascript', 'random', 'mongo', 'http']);
+  api.use('froatsnook:sleep');
   api.use(['aldeed:simple-schema@1.3.3', 'aldeed:collection2@2.5.0']);
   api.use('hololens:app-main');
   api.addFiles('collections/events.js', 'server');
