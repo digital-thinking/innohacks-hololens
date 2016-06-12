@@ -1,3 +1,5 @@
+# Holo City
+
 Welcome to the project of the Hololens team at innohacks Hackathon Karlsruhe.
 
 This repository consists of two sub-projects:
