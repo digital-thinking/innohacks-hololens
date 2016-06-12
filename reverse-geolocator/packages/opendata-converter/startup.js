@@ -25,7 +25,7 @@ const boundingbox = [
 const THROTTLE = 1000;
 // if set to true, fetch geo location data from reverse geocoder
 // otherwise, just export existing data in the database to JSON file
-const PERFORM_GEOCODE = false;
+const PERFORM_GEOCODE = true;
 
 Meteor.startup(function() {
   if (PERFORM_GEOCODE) {
