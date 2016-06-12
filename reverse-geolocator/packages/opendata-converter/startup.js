@@ -14,9 +14,28 @@ const mapping = {
   editedAt: 5,
   channel: 6
 };
-const THROTTLE = 1000; // throttle for requesting geo data from service in milliseconds
+
+// bounding box of the Karlsruhe map data
+const boundingbox = [
+  [8.3941, 49.0069],
+  [8.4133, 49.0115]
+];
+
+// throttle for requesting geo data from service in milliseconds
+const THROTTLE = 1000;
+// if set to true, fetch geo location data from reverse geocoder
+// otherwise, just export existing data in the database to JSON file
+const PERFORM_GEOCODE = false;
 
 Meteor.startup(function() {
+  if (PERFORM_GEOCODE) {
+    fetchLocationData();
+  } else {
+    writeLocationDataToJSON();
+  }
+});
+
+function fetchLocationData() {
   // Read in CSV file
   const eventsCSV = Assets.getText(eventsCSVFile);
   // Split into separate lines
@@ -88,13 +107,23 @@ Meteor.startup(function() {
         }
       });
       if (i === numberOfEvents - 1) {
-        console.log('writing');
-        const eventsToExport = eventsCollection.find().fetch();
-        fs.writeFileSync(process.env.PWD + '/eventlocations.json', JSON.stringify(eventsToExport, null, 2));
-        console.log('finished');
+        writeLocationDataToJSON();
       }
     });
     // Be nice to the server
     Meteor.sleep(THROTTLE);
   }
-});
+}
+
+function writeLocationDataToJSON() {
+  const cursor = eventsCollection.find({
+    'location.center': {
+      $geoWithin: {
+        $box: boundingbox
+      }
+    }
+  });
+  const eventsToWrite = cursor.fetch();
+  fs.writeFileSync(process.env.PWD + '/eventlocations.json', JSON.stringify(eventsToWrite, null, 2));
+  console.log('finished exporting ' + cursor.count() + ' events');
+}
