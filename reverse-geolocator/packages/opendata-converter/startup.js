@@ -25,7 +25,7 @@ const boundingbox = [
 const THROTTLE = 1000;
 // if set to true, fetch geo location data from reverse geocoder
 // otherwise, just export existing data in the database to JSON file
-const PERFORM_GEOCODE = true;
+const PERFORM_GEOCODE = false;
 
 Meteor.startup(function() {
   if (PERFORM_GEOCODE) {
@@ -135,6 +135,13 @@ function writeLocationDataToJSON() {
     }
   });
   const eventsToWrite = cursor.fetch();
+  for (var i = 0; i < eventsToWrite.length; i++) {
+    const event = eventsToWrite[i];
+    event.longitude = event.location.center.coordinates[0];
+    event.latitude = event.location.center.coordinates[1];
+    delete event.location;
+    console.dir(event);
+  }
   fs.writeFileSync(process.env.PWD + '/eventlocations.json', JSON.stringify(eventsToWrite, null, 2));
   console.log('finished exporting ' + cursor.count() + ' events');
 }
