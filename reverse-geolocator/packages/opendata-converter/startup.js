@@ -122,6 +122,15 @@ function writeLocationDataToJSON() {
         $box: boundingbox
       }
     }
+  }, {
+    fields: {
+      'location.data.licence': 0,
+      'location.data.boundingbox': 0,
+      'location.data.lat': 0,
+      'location.data.lon': 0,
+      'location.data.type': 0,
+      'location.data.importance': 0
+    }
   });
   const eventsToWrite = cursor.fetch();
   fs.writeFileSync(process.env.PWD + '/eventlocations.json', JSON.stringify(eventsToWrite, null, 2));

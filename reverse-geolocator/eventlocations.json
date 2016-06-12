@@ -33,21 +33,10 @@
       },
       "data": {
         "place_id": "115153102",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "238157249",
-        "boundingbox": [
-          "49.0089588",
-          "49.0090757",
-          "8.4043378",
-          "8.4047921"
-        ],
-        "lat": "49.0090215",
-        "lon": "8.40463678861771",
         "display_name": "94, Zähringerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -85,21 +74,10 @@
       },
       "data": {
         "place_id": "1489739",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "330830310",
-        "boundingbox": [
-          "49.0072044",
-          "49.0073044",
-          "8.4029973",
-          "8.4030973"
-        ],
-        "lat": "49.0072544",
-        "lon": "8.4030473",
         "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -137,21 +115,10 @@
       },
       "data": {
         "place_id": "83059087",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109088723",
-        "boundingbox": [
-          "49.0112263",
-          "49.0115061",
-          "8.3993767",
-          "8.3997429"
-        ],
-        "lat": "49.0113835",
-        "lon": "8.39955557803738",
         "display_name": "2, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -189,21 +156,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -241,21 +197,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -293,21 +238,10 @@
       },
       "data": {
         "place_id": "85238853",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108628582",
-        "boundingbox": [
-          "49.0079914",
-          "49.0081292",
-          "8.4030481",
-          "8.4032379"
-        ],
-        "lat": "49.0080806",
-        "lon": "8.40314912278207",
         "display_name": "13, Hebelstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -345,21 +279,10 @@
       },
       "data": {
         "place_id": "61642650",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "23633815",
-        "boundingbox": [
-          "49.008882",
-          "49.0098207",
-          "8.3934677",
-          "8.3948772"
-        ],
-        "lat": "49.00936255",
-        "lon": "8.39417361650374",
         "display_name": "Postgalerie, 217, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "mall",
-        "importance": 0.5201800738083
+        "class": "shop"
       }
     }
   },
@@ -397,21 +320,10 @@
       },
       "data": {
         "place_id": "50382713",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3533995",
-        "boundingbox": [
-          "49.0104379",
-          "49.0105554",
-          "8.3983094",
-          "8.3985099"
-        ],
-        "lat": "49.0105554",
-        "lon": "8.3985099",
         "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -449,21 +361,10 @@
       },
       "data": {
         "place_id": "17193126",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "1743158334",
-        "boundingbox": [
-          "49.0074888",
-          "49.0075888",
-          "8.4071716",
-          "8.4072716"
-        ],
-        "lat": "49.0075388",
-        "lon": "8.4072216",
         "display_name": "Cafe-bohne, 30a, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "cafe",
-        "importance": 0.431,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
       }
     }
@@ -502,21 +403,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -555,21 +445,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -608,21 +487,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -661,21 +529,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -713,21 +570,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -766,21 +612,10 @@
       },
       "data": {
         "place_id": "44275127",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3286558872",
-        "boundingbox": [
-          "49.0100089",
-          "49.0101089",
-          "8.3972112",
-          "8.3973112"
-        ],
-        "lat": "49.0100589",
-        "lon": "8.3972612",
         "display_name": "La Petite, 124, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "boutique",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -818,21 +653,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -870,21 +694,10 @@
       },
       "data": {
         "place_id": "119750",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "25236155",
-        "boundingbox": [
-          "49.0075703",
-          "49.0076703",
-          "8.4103687",
-          "8.4104687"
-        ],
-        "lat": "49.0076203",
-        "lon": "8.4104187",
         "display_name": "Johannes-Apotheke, 27a, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "pharmacy",
-        "importance": 0.431,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/health_pharmacy_dispensing.p.20.png"
       }
     }
@@ -923,21 +736,10 @@
       },
       "data": {
         "place_id": "142193162",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "373893806",
-        "boundingbox": [
-          "49.0070099",
-          "49.0074929",
-          "8.4036736",
-          "8.403721"
-        ],
-        "lat": "49.0074786",
-        "lon": "8.4037197",
         "display_name": "Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.62
+        "class": "highway"
       }
     }
   },
@@ -975,21 +777,10 @@
       },
       "data": {
         "place_id": "78438358",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "90033144",
-        "boundingbox": [
-          "49.0084584",
-          "49.0086824",
-          "8.3998553",
-          "8.4002971"
-        ],
-        "lat": "49.0085704",
-        "lon": "8.40007620000001",
         "display_name": "14, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -1027,21 +818,10 @@
       },
       "data": {
         "place_id": "257441",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "60019232",
-        "boundingbox": [
-          "49.0106508",
-          "49.0107508",
-          "8.3984471",
-          "8.3985471"
-        ],
-        "lat": "49.0107008",
-        "lon": "8.3984971",
         "display_name": "Aldi Süd, 14-18, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "supermarket",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_supermarket.p.20.png"
       }
     }
@@ -1080,21 +860,10 @@
       },
       "data": {
         "place_id": "2618798988",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "422832206",
-        "boundingbox": [
-          "49.0081008",
-          "49.0082048",
-          "8.4018736",
-          "8.4019441"
-        ],
-        "lat": "49.0081335",
-        "lon": "8.4018962",
         "display_name": "Lammstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -1132,21 +901,10 @@
       },
       "data": {
         "place_id": "50356619",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3924806",
-        "boundingbox": [
-          "49.0105554",
-          "49.0111343",
-          "8.3976759",
-          "8.3985099"
-        ],
-        "lat": "49.0105554",
-        "lon": "8.3985099",
         "display_name": "Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -1184,21 +942,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -1237,21 +984,10 @@
       },
       "data": {
         "place_id": "275933",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "69119884",
-        "boundingbox": [
-          "49.0090717",
-          "49.0091717",
-          "8.4033545",
-          "8.4034545"
-        ],
-        "lat": "49.0091217",
-        "lon": "8.4034045",
         "display_name": "Marktlücke, 8, Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "pub",
-        "importance": 0.521,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_pub.p.20.png"
       }
     }
@@ -1290,21 +1026,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -1342,21 +1067,10 @@
       },
       "data": {
         "place_id": "82881962",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108468351",
-        "boundingbox": [
-          "49.0089093",
-          "49.0091467",
-          "8.4054374",
-          "8.4056248"
-        ],
-        "lat": "49.00904485",
-        "lon": "8.40553430967599",
         "display_name": "Communications Engineering Lab, 11, Kreuzstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -1394,21 +1108,10 @@
       },
       "data": {
         "place_id": "48899276",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3526802120",
-        "boundingbox": [
-          "49.0070027",
-          "49.0071027",
-          "8.4105681",
-          "8.4106681"
-        ],
-        "lat": "49.0070527",
-        "lon": "8.4106181",
         "display_name": "Göktur Reisen, 17, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "travel_agency",
-        "importance": 0.521
+        "class": "shop"
       }
     }
   },
@@ -1446,21 +1149,10 @@
       },
       "data": {
         "place_id": "6738465",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "775307298",
-        "boundingbox": [
-          "49.0069934",
-          "49.0070934",
-          "8.4058886",
-          "8.4059886"
-        ],
-        "lat": "49.0070434",
-        "lon": "8.4059386",
         "display_name": "17, Kreuzstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -1498,21 +1190,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -1550,21 +1231,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -1602,21 +1272,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -1654,21 +1313,10 @@
       },
       "data": {
         "place_id": "24056146",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2371306354",
-        "boundingbox": [
-          "49.0096312",
-          "49.0097312",
-          "8.4079626",
-          "8.4080626"
-        ],
-        "lat": "49.0096812",
-        "lon": "8.4080126",
         "display_name": "Star Cut, 22, Kronenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "hairdresser",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_hairdresser.p.20.png"
       }
     }
@@ -1707,21 +1355,10 @@
       },
       "data": {
         "place_id": "25040823",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2459399316",
-        "boundingbox": [
-          "49.0100026",
-          "49.0101026",
-          "8.4013169",
-          "8.4014169"
-        ],
-        "lat": "49.0100526",
-        "lon": "8.4013669",
         "display_name": "8, Ritterstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -1759,21 +1396,10 @@
       },
       "data": {
         "place_id": "82627851",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109149507",
-        "boundingbox": [
-          "49.00812",
-          "49.0082598",
-          "8.3972395",
-          "8.3974511"
-        ],
-        "lat": "49.00819035",
-        "lon": "8.39734546807729",
         "display_name": "40, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -1811,21 +1437,10 @@
       },
       "data": {
         "place_id": "117221313",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "247034502",
-        "boundingbox": [
-          "49.0092571",
-          "49.0092628",
-          "8.4102605",
-          "8.4103961"
-        ],
-        "lat": "49.0092628",
-        "lon": "8.4102605",
         "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "tertiary",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -1863,21 +1478,10 @@
       },
       "data": {
         "place_id": "61642650",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "23633815",
-        "boundingbox": [
-          "49.008882",
-          "49.0098207",
-          "8.3934677",
-          "8.3948772"
-        ],
-        "lat": "49.00936255",
-        "lon": "8.39417361650374",
         "display_name": "Postgalerie, 217, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "mall",
-        "importance": 0.5201800738083
+        "class": "shop"
       }
     }
   },
@@ -1915,21 +1519,10 @@
       },
       "data": {
         "place_id": "82627851",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109149507",
-        "boundingbox": [
-          "49.00812",
-          "49.0082598",
-          "8.3972395",
-          "8.3974511"
-        ],
-        "lat": "49.00819035",
-        "lon": "8.39734546807729",
         "display_name": "40, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -1967,21 +1560,10 @@
       },
       "data": {
         "place_id": "198026306",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "238165707",
-        "boundingbox": [
-          "49.0072682",
-          "49.008074",
-          "8.3990879",
-          "8.3998621"
-        ],
-        "lat": "49.00780215",
-        "lon": "8.39963235477607",
         "display_name": "SSA KA, 16-20, Ritterstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "office",
-        "type": "government",
-        "importance": 0.331
+        "class": "office"
       }
     }
   },
@@ -2019,21 +1601,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -2071,21 +1642,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -2123,21 +1683,10 @@
       },
       "data": {
         "place_id": "37540126",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2900776804",
-        "boundingbox": [
-          "49.0086765",
-          "49.0087765",
-          "8.4115192",
-          "8.4116192"
-        ],
-        "lat": "49.0087265",
-        "lon": "8.4115692",
         "display_name": "Tasse mit Pfiff, 31, Waldhornstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "restaurant",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
       }
     }
@@ -2176,21 +1725,10 @@
       },
       "data": {
         "place_id": "135017223",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "345699834",
-        "boundingbox": [
-          "49.0087202",
-          "49.0087853",
-          "8.398353",
-          "8.3984506"
-        ],
-        "lat": "49.00875275",
-        "lon": "8.39840179205426",
         "display_name": "23a, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.431
+        "class": "building"
       }
     }
   },
@@ -2228,21 +1766,10 @@
       },
       "data": {
         "place_id": "4444786",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "524525460",
-        "boundingbox": [
-          "49.0085389",
-          "49.0086389",
-          "8.3977946",
-          "8.3978946"
-        ],
-        "lat": "49.0085889",
-        "lon": "8.3978446",
         "display_name": "Stephanus Buchhandlung, 34, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "books",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -2280,21 +1807,10 @@
       },
       "data": {
         "place_id": "82721875",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108006544",
-        "boundingbox": [
-          "49.0069911",
-          "49.0071386",
-          "8.4069033",
-          "8.4071302"
-        ],
-        "lat": "49.0070674",
-        "lon": "8.40701694732614",
         "display_name": "25, Steinstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -2332,21 +1848,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -2384,21 +1889,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -2437,21 +1931,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -2489,21 +1972,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -2541,21 +2013,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -2593,21 +2054,10 @@
       },
       "data": {
         "place_id": "123972646",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "261420056",
-        "boundingbox": [
-          "49.0114369",
-          "49.0115497",
-          "8.3996323",
-          "8.4000192"
-        ],
-        "lat": "49.011476",
-        "lon": "8.3998147",
         "display_name": "Hans-Thoma-Straße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "secondary",
-        "importance": 0.62
+        "class": "highway"
       }
     }
   },
@@ -2645,21 +2095,10 @@
       },
       "data": {
         "place_id": "3958150",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "454992577",
-        "boundingbox": [
-          "49.0078855",
-          "49.0079855",
-          "8.4094681",
-          "8.4095681"
-        ],
-        "lat": "49.0079355",
-        "lon": "8.4095181",
         "display_name": "36, Kronenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "kiosk",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -2697,21 +2136,10 @@
       },
       "data": {
         "place_id": "52021811",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "4058954",
-        "boundingbox": [
-          "49.0065802",
-          "49.0075626",
-          "8.3994186",
-          "8.4010025"
-        ],
-        "lat": "49.0070721",
-        "lon": "8.40023479375978",
         "display_name": "Staatliches Museum für Naturkunde, 13, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.59259541148672,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -2750,21 +2178,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -2803,21 +2220,10 @@
       },
       "data": {
         "place_id": "78438358",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "90033144",
-        "boundingbox": [
-          "49.0084584",
-          "49.0086824",
-          "8.3998553",
-          "8.4002971"
-        ],
-        "lat": "49.0085704",
-        "lon": "8.40007620000001",
         "display_name": "14, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -2855,21 +2261,10 @@
       },
       "data": {
         "place_id": "50382713",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3533995",
-        "boundingbox": [
-          "49.0104379",
-          "49.0105554",
-          "8.3983094",
-          "8.3985099"
-        ],
-        "lat": "49.0105554",
-        "lon": "8.3985099",
         "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -2907,21 +2302,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -2959,21 +2343,10 @@
       },
       "data": {
         "place_id": "83301149",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109149505",
-        "boundingbox": [
-          "49.0074285",
-          "49.00758",
-          "8.3962039",
-          "8.3964156"
-        ],
-        "lat": "49.0075212",
-        "lon": "8.39632242",
         "display_name": "4, Amalienstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -3011,21 +2384,10 @@
       },
       "data": {
         "place_id": "53193283",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "4188464",
-        "boundingbox": [
-          "49.0069047",
-          "49.0072054",
-          "8.4038351",
-          "8.4057163"
-        ],
-        "lat": "49.0070752",
-        "lon": "8.4048853",
         "display_name": "Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -3063,21 +2425,10 @@
       },
       "data": {
         "place_id": "85180799",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108390802",
-        "boundingbox": [
-          "49.0109712",
-          "49.0110677",
-          "8.3994402",
-          "8.399585"
-        ],
-        "lat": "49.01101955",
-        "lon": "8.39951260253866",
         "display_name": "7, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -3115,21 +2466,10 @@
       },
       "data": {
         "place_id": "52021811",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "4058954",
-        "boundingbox": [
-          "49.0065802",
-          "49.0075626",
-          "8.3994186",
-          "8.4010025"
-        ],
-        "lat": "49.0070721",
-        "lon": "8.40023479375978",
         "display_name": "Staatliches Museum für Naturkunde, 13, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.59259541148672,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -3168,21 +2508,10 @@
       },
       "data": {
         "place_id": "46494085",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3520551327",
-        "boundingbox": [
-          "49.009399",
-          "49.009499",
-          "8.4028536",
-          "8.4029536"
-        ],
-        "lat": "49.009449",
-        "lon": "8.4029036",
         "display_name": "L'Occitane en Provence, 145, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "cosmetics",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -3220,21 +2549,10 @@
       },
       "data": {
         "place_id": "27398481",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2631395319",
-        "boundingbox": [
-          "49.0090847",
-          "49.0091847",
-          "8.4110193",
-          "8.4111193"
-        ],
-        "lat": "49.0091347",
-        "lon": "8.4110693",
         "display_name": "Copy World, 67, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "shop",
-        "type": "copyshop",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -3272,21 +2590,10 @@
       },
       "data": {
         "place_id": "1225779",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "305533113",
-        "boundingbox": [
-          "49.010167",
-          "49.010267",
-          "8.3947823",
-          "8.3948823"
-        ],
-        "lat": "49.010217",
-        "lon": "8.3948323",
         "display_name": "Saturn, 146-148, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "electronics",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -3324,21 +2631,10 @@
       },
       "data": {
         "place_id": "84806159",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108757477",
-        "boundingbox": [
-          "49.0105266",
-          "49.0109602",
-          "8.4098597",
-          "8.4106991"
-        ],
-        "lat": "49.01074455",
-        "lon": "8.41039026758655",
         "display_name": "10, Englerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -3376,21 +2672,10 @@
       },
       "data": {
         "place_id": "96534666",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "160484295",
-        "boundingbox": [
-          "49.0079469",
-          "49.0086271",
-          "8.3972793",
-          "8.3980841"
-        ],
-        "lat": "49.0079469",
-        "lon": "8.3972793",
         "display_name": "Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -3428,21 +2713,10 @@
       },
       "data": {
         "place_id": "2610612706",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "4109525436",
-        "boundingbox": [
-          "49.00987",
-          "49.00997",
-          "8.4001512",
-          "8.4002512"
-        ],
-        "lat": "49.00992",
-        "lon": "8.4002012",
         "display_name": "borellimmobilien, 98, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "office",
-        "type": "estate_agent",
-        "importance": 0.331
+        "class": "office"
       }
     }
   },
@@ -3480,21 +2754,10 @@
       },
       "data": {
         "place_id": "85274510",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108757480",
-        "boundingbox": [
-          "49.0096959",
-          "49.0098568",
-          "8.410107",
-          "8.4103499"
-        ],
-        "lat": "49.009779",
-        "lon": "8.4102247163659",
         "display_name": "19, Waldhornstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "type": "driving_school",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -3532,21 +2795,10 @@
       },
       "data": {
         "place_id": "49211162",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3581824857",
-        "boundingbox": [
-          "49.0104132",
-          "49.0105132",
-          "8.3952386",
-          "8.3953386"
-        ],
-        "lat": "49.0104632",
-        "lon": "8.3952886",
         "display_name": "TOP 10, 17, Karlstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "hairdresser",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_hairdresser.p.20.png"
       }
     }
@@ -3585,21 +2837,10 @@
       },
       "data": {
         "place_id": "49211162",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3581824857",
-        "boundingbox": [
-          "49.0104132",
-          "49.0105132",
-          "8.3952386",
-          "8.3953386"
-        ],
-        "lat": "49.0104632",
-        "lon": "8.3952886",
         "display_name": "TOP 10, 17, Karlstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "hairdresser",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_hairdresser.p.20.png"
       }
     }
@@ -3638,21 +2879,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -3690,21 +2920,10 @@
       },
       "data": {
         "place_id": "2617845390",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "421511739",
-        "boundingbox": [
-          "49.0091022",
-          "49.0092479",
-          "8.3965951",
-          "8.3968129"
-        ],
-        "lat": "49.00917495",
-        "lon": "8.39670390316495",
         "display_name": "SEN, 32, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "restaurant",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
       }
     }
@@ -3743,21 +2962,10 @@
       },
       "data": {
         "place_id": "83056436",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108351526",
-        "boundingbox": [
-          "49.0072258",
-          "49.0074028",
-          "8.408896",
-          "8.4092869"
-        ],
-        "lat": "49.00730885",
-        "lon": "8.40908045664143",
         "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -3796,21 +3004,10 @@
       },
       "data": {
         "place_id": "47548205",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3286558871",
-        "boundingbox": [
-          "49.009842",
-          "49.009942",
-          "8.4009448",
-          "8.4010448"
-        ],
-        "lat": "49.009892",
-        "lon": "8.4009948",
         "display_name": "KiK, 94, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "clothes",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
       }
     }
@@ -3849,21 +3046,10 @@
       },
       "data": {
         "place_id": "46292660",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3581824854",
-        "boundingbox": [
-          "49.0103294",
-          "49.0104294",
-          "8.399877",
-          "8.399977"
-        ],
-        "lat": "49.0103794",
-        "lon": "8.399927",
         "display_name": "Shogun Ya Sushi, 12, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "restaurant",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
       }
     }
@@ -3902,21 +3088,10 @@
       },
       "data": {
         "place_id": "4146433",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "454973291",
-        "boundingbox": [
-          "49.0089543",
-          "49.0090543",
-          "8.4103847",
-          "8.4104847"
-        ],
-        "lat": "49.0090043",
-        "lon": "8.4104347",
         "display_name": "Edeka Lukasiewicz, 1-3, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "supermarket",
-        "importance": 0.521,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_supermarket.p.20.png"
       }
     }
@@ -3955,21 +3130,10 @@
       },
       "data": {
         "place_id": "81892177",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108793454",
-        "boundingbox": [
-          "49.0070985",
-          "49.0074384",
-          "8.4127658",
-          "8.4131699"
-        ],
-        "lat": "49.00726335",
-        "lon": "8.41303001141917",
         "display_name": "58, Kapellenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -4007,21 +3171,10 @@
       },
       "data": {
         "place_id": "83056436",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108351526",
-        "boundingbox": [
-          "49.0072258",
-          "49.0074028",
-          "8.408896",
-          "8.4092869"
-        ],
-        "lat": "49.00730885",
-        "lon": "8.40908045664143",
         "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -4060,21 +3213,10 @@
       },
       "data": {
         "place_id": "115275464",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "237659884",
-        "boundingbox": [
-          "49.0093863",
-          "49.0095987",
-          "8.39545",
-          "8.3959114"
-        ],
-        "lat": "49.00949985",
-        "lon": "8.39564896299636",
         "display_name": "38, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -4112,21 +3254,10 @@
       },
       "data": {
         "place_id": "1489739",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "330830310",
-        "boundingbox": [
-          "49.0072044",
-          "49.0073044",
-          "8.4029973",
-          "8.4030973"
-        ],
-        "lat": "49.0072544",
-        "lon": "8.4030473",
         "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -4164,21 +3295,10 @@
       },
       "data": {
         "place_id": "1489739",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "330830310",
-        "boundingbox": [
-          "49.0072044",
-          "49.0073044",
-          "8.4029973",
-          "8.4030973"
-        ],
-        "lat": "49.0072544",
-        "lon": "8.4030473",
         "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -4216,21 +3336,10 @@
       },
       "data": {
         "place_id": "83410953",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109093965",
-        "boundingbox": [
-          "49.0112306",
-          "49.0114048",
-          "8.3976607",
-          "8.3978506"
-        ],
-        "lat": "49.01131845",
-        "lon": "8.39776440924784",
         "display_name": "10, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -4268,21 +3377,10 @@
       },
       "data": {
         "place_id": "83410953",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109093965",
-        "boundingbox": [
-          "49.0112306",
-          "49.0114048",
-          "8.3976607",
-          "8.3978506"
-        ],
-        "lat": "49.01131845",
-        "lon": "8.39776440924784",
         "display_name": "10, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -4320,21 +3418,10 @@
       },
       "data": {
         "place_id": "82721875",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108006544",
-        "boundingbox": [
-          "49.0069911",
-          "49.0071386",
-          "8.4069033",
-          "8.4071302"
-        ],
-        "lat": "49.0070674",
-        "lon": "8.40701694732614",
         "display_name": "25, Steinstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -4372,21 +3459,10 @@
       },
       "data": {
         "place_id": "127667217",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "288535412",
-        "boundingbox": [
-          "49.0096493",
-          "49.0097525",
-          "8.3984049",
-          "8.3985348"
-        ],
-        "lat": "49.00971935",
-        "lon": "8.39847174685507",
         "display_name": "Orsay, 187, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "clothes",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
       }
     }
@@ -4425,21 +3501,10 @@
       },
       "data": {
         "place_id": "13422372",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "1305923026",
-        "boundingbox": [
-          "49.0099114",
-          "49.0100114",
-          "8.3990762",
-          "8.3991762"
-        ],
-        "lat": "49.0099614",
-        "lon": "8.3991262",
         "display_name": "StreetOne, 106, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "clothes",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
       }
     }
@@ -4478,21 +3543,10 @@
       },
       "data": {
         "place_id": "130972909",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "313382602",
-        "boundingbox": [
-          "49.0069567",
-          "49.0071552",
-          "8.4028172",
-          "8.403427"
-        ],
-        "lat": "49.00712",
-        "lon": "8.4029292",
         "display_name": "Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -4530,21 +3584,10 @@
       },
       "data": {
         "place_id": "50382713",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3533995",
-        "boundingbox": [
-          "49.0104379",
-          "49.0105554",
-          "8.3983094",
-          "8.3985099"
-        ],
-        "lat": "49.0105554",
-        "lon": "8.3985099",
         "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -4582,21 +3625,10 @@
       },
       "data": {
         "place_id": "83410953",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109093965",
-        "boundingbox": [
-          "49.0112306",
-          "49.0114048",
-          "8.3976607",
-          "8.3978506"
-        ],
-        "lat": "49.01131845",
-        "lon": "8.39776440924784",
         "display_name": "10, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -4634,21 +3666,10 @@
       },
       "data": {
         "place_id": "22569612",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2315127570",
-        "boundingbox": [
-          "49.0071075",
-          "49.0072075",
-          "8.4034196",
-          "8.4035196"
-        ],
-        "lat": "49.0071575",
-        "lon": "8.4034696",
         "display_name": "GelbeSeiten, 22, Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "pub",
-        "importance": 0.521,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_pub.p.20.png"
       }
     }
@@ -4687,21 +3708,10 @@
       },
       "data": {
         "place_id": "22569612",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2315127570",
-        "boundingbox": [
-          "49.0071075",
-          "49.0072075",
-          "8.4034196",
-          "8.4035196"
-        ],
-        "lat": "49.0071575",
-        "lon": "8.4034696",
         "display_name": "GelbeSeiten, 22, Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "pub",
-        "importance": 0.521,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_pub.p.20.png"
       }
     }
@@ -4740,21 +3750,10 @@
       },
       "data": {
         "place_id": "50382713",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3533995",
-        "boundingbox": [
-          "49.0104379",
-          "49.0105554",
-          "8.3983094",
-          "8.3985099"
-        ],
-        "lat": "49.0105554",
-        "lon": "8.3985099",
         "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -4792,21 +3791,10 @@
       },
       "data": {
         "place_id": "140420322",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "378845127",
-        "boundingbox": [
-          "49.0070865",
-          "49.0072788",
-          "8.3962554",
-          "8.3964787"
-        ],
-        "lat": "49.0072233",
-        "lon": "8.3964151",
         "display_name": "Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -4844,21 +3832,10 @@
       },
       "data": {
         "place_id": "122568597",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "281839641",
-        "boundingbox": [
-          "49.0092245",
-          "49.0092334",
-          "8.4109233",
-          "8.4111548"
-        ],
-        "lat": "49.0092334",
-        "lon": "8.4109233",
         "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway",
-        "type": "tertiary",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -4896,21 +3873,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -4948,21 +3914,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -5000,21 +3955,10 @@
       },
       "data": {
         "place_id": "48397066",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3663956215",
-        "boundingbox": [
-          "49.0108692",
-          "49.0109692",
-          "8.3971422",
-          "8.3972422"
-        ],
-        "lat": "49.0109192",
-        "lon": "8.3971922",
         "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking_entrance",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -5052,21 +3996,10 @@
       },
       "data": {
         "place_id": "82777743",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108777130",
-        "boundingbox": [
-          "49.0085897",
-          "49.0086933",
-          "8.412529",
-          "8.4127236"
-        ],
-        "lat": "49.0086415",
-        "lon": "8.4126263",
         "display_name": "22, Zähringerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -5104,21 +4037,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -5156,21 +4078,10 @@
       },
       "data": {
         "place_id": "117221313",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "247034502",
-        "boundingbox": [
-          "49.0092571",
-          "49.0092628",
-          "8.4102605",
-          "8.4103961"
-        ],
-        "lat": "49.0092628",
-        "lon": "8.4102605",
         "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "tertiary",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -5208,21 +4119,10 @@
       },
       "data": {
         "place_id": "119838666",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "259736406",
-        "boundingbox": [
-          "49.0085456",
-          "49.0086567",
-          "8.4101714",
-          "8.4101869"
-        ],
-        "lat": "49.0086162",
-        "lon": "8.4101812",
         "display_name": "Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "secondary",
-        "importance": 0.62
+        "class": "highway"
       }
     }
   },
@@ -5260,21 +4160,10 @@
       },
       "data": {
         "place_id": "83056436",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108351526",
-        "boundingbox": [
-          "49.0072258",
-          "49.0074028",
-          "8.408896",
-          "8.4092869"
-        ],
-        "lat": "49.00730885",
-        "lon": "8.40908045664143",
         "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -5313,21 +4202,10 @@
       },
       "data": {
         "place_id": "49612090",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3454369",
-        "boundingbox": [
-          "49.0109391",
-          "49.0114369",
-          "8.4000192",
-          "8.4008192"
-        ],
-        "lat": "49.0113393",
-        "lon": "8.400211",
         "display_name": "Zirkel, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -5365,21 +4243,10 @@
       },
       "data": {
         "place_id": "83056436",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108351526",
-        "boundingbox": [
-          "49.0072258",
-          "49.0074028",
-          "8.408896",
-          "8.4092869"
-        ],
-        "lat": "49.00730885",
-        "lon": "8.40908045664143",
         "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -5418,21 +4285,10 @@
       },
       "data": {
         "place_id": "84855630",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108964368",
-        "boundingbox": [
-          "49.0093671",
-          "49.0095433",
-          "8.3990976",
-          "8.3993874"
-        ],
-        "lat": "49.00944545",
-        "lon": "8.39924137213726",
         "display_name": "21, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -5470,21 +4326,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -5523,21 +4368,10 @@
       },
       "data": {
         "place_id": "10110951",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "1014013321",
-        "boundingbox": [
-          "49.0095587",
-          "49.0096587",
-          "8.4103585",
-          "8.4104585"
-        ],
-        "lat": "49.0096087",
-        "lon": "8.4104085",
         "display_name": "Genießer Ecke, 16, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "fast_food",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
       }
     }
@@ -5576,21 +4410,10 @@
       },
       "data": {
         "place_id": "48911854",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3528913654",
-        "boundingbox": [
-          "49.0082423",
-          "49.0083423",
-          "8.3950631",
-          "8.3951631"
-        ],
-        "lat": "49.0082923",
-        "lon": "8.3951131",
         "display_name": "Amadeus FiRe, 23, Karlstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "office",
-        "type": "company",
-        "importance": 0.331
+        "class": "office"
       }
     }
   },
@@ -5628,21 +4451,10 @@
       },
       "data": {
         "place_id": "4686682",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "524525457",
-        "boundingbox": [
-          "49.009288",
-          "49.009388",
-          "8.3961413",
-          "8.3962413"
-        ],
-        "lat": "49.009338",
-        "lon": "8.3961913",
         "display_name": "Pizza Hut, 34, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "fast_food",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
       }
     }
@@ -5681,21 +4493,10 @@
       },
       "data": {
         "place_id": "85274510",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108757480",
-        "boundingbox": [
-          "49.0096959",
-          "49.0098568",
-          "8.410107",
-          "8.4103499"
-        ],
-        "lat": "49.009779",
-        "lon": "8.4102247163659",
         "display_name": "19, Waldhornstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "type": "driving_school",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -5733,21 +4534,10 @@
       },
       "data": {
         "place_id": "85329573",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108964467",
-        "boundingbox": [
-          "49.0094471",
-          "49.0095509",
-          "8.3979648",
-          "8.3981583"
-        ],
-        "lat": "49.0094975",
-        "lon": "8.39806208888889",
         "display_name": "15, Erbprinzenhof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -5785,21 +4575,10 @@
       },
       "data": {
         "place_id": "82780800",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "109093956",
-        "boundingbox": [
-          "49.0109294",
-          "49.011078",
-          "8.397174",
-          "8.3973596"
-        ],
-        "lat": "49.01102695",
-        "lon": "8.39726621365736",
         "display_name": "18, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -5837,21 +4616,10 @@
       },
       "data": {
         "place_id": "50382713",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3533995",
-        "boundingbox": [
-          "49.0104379",
-          "49.0105554",
-          "8.3983094",
-          "8.3985099"
-        ],
-        "lat": "49.0105554",
-        "lon": "8.3985099",
         "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -5889,21 +4657,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -5942,21 +4699,10 @@
       },
       "data": {
         "place_id": "677905",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "256026567",
-        "boundingbox": [
-          "49.0078708",
-          "49.0079708",
-          "8.3950296",
-          "8.3951296"
-        ],
-        "lat": "49.0079208",
-        "lon": "8.3950796",
         "display_name": "Badische Backstub', 14b, Amalienstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "cafe",
-        "importance": 0.431,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
       }
     }
@@ -5995,21 +4741,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -6047,21 +4782,10 @@
       },
       "data": {
         "place_id": "10110951",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "1014013321",
-        "boundingbox": [
-          "49.0095587",
-          "49.0096587",
-          "8.4103585",
-          "8.4104585"
-        ],
-        "lat": "49.0096087",
-        "lon": "8.4104085",
         "display_name": "Genießer Ecke, 16, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "fast_food",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
       }
     }
@@ -6100,21 +4824,10 @@
       },
       "data": {
         "place_id": "116101074",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "238175622",
-        "boundingbox": [
-          "49.007395",
-          "49.0075652",
-          "8.4120594",
-          "8.412496"
-        ],
-        "lat": "49.00748915",
-        "lon": "8.41227777074604",
         "display_name": "19, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -6152,21 +4865,10 @@
       },
       "data": {
         "place_id": "116101074",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "238175622",
-        "boundingbox": [
-          "49.007395",
-          "49.0075652",
-          "8.4120594",
-          "8.412496"
-        ],
-        "lat": "49.00748915",
-        "lon": "8.41227777074604",
         "display_name": "19, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building",
-        "type": "yes",
-        "importance": 0.331
+        "class": "building"
       }
     }
   },
@@ -6204,21 +4906,10 @@
       },
       "data": {
         "place_id": "140886739",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "353062909",
-        "boundingbox": [
-          "49.0096349",
-          "49.0096831",
-          "8.4081547",
-          "8.4081966"
-        ],
-        "lat": "49.0096349",
-        "lon": "8.4081966",
         "display_name": "Kronenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "living_street",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -6256,21 +4947,10 @@
       },
       "data": {
         "place_id": "111256335",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "227423391",
-        "boundingbox": [
-          "49.0097366",
-          "49.0098804",
-          "8.4027339",
-          "8.4030504"
-        ],
-        "lat": "49.00981135",
-        "lon": "8.40289662163844",
         "display_name": "Hirmer, 82a, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "clothes",
-        "importance": 0.431,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
       }
     }
@@ -6309,21 +4989,10 @@
       },
       "data": {
         "place_id": "49612090",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "3454369",
-        "boundingbox": [
-          "49.0109391",
-          "49.0114369",
-          "8.4000192",
-          "8.4008192"
-        ],
-        "lat": "49.0113393",
-        "lon": "8.400211",
         "display_name": "Zirkel, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -6361,21 +5030,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6414,21 +5072,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6467,21 +5114,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6520,21 +5156,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6573,21 +5198,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6626,21 +5240,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6679,21 +5282,10 @@
       },
       "data": {
         "place_id": "49593051",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3609171295",
-        "boundingbox": [
-          "49.0107167",
-          "49.0108167",
-          "8.3990096",
-          "8.3991096"
-        ],
-        "lat": "49.0107667",
-        "lon": "8.3990596",
         "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "jewelry",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
       }
     }
@@ -6732,21 +5324,10 @@
       },
       "data": {
         "place_id": "22754256",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2305037118",
-        "boundingbox": [
-          "49.0103066",
-          "49.0104066",
-          "8.4015473",
-          "8.4016473"
-        ],
-        "lat": "49.0103566",
-        "lon": "8.4015973",
         "display_name": "MoccaSin Coffee, 6, Ritterstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "cafe",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
       }
     }
@@ -6785,21 +5366,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -6837,21 +5407,10 @@
       },
       "data": {
         "place_id": "142152616",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338749",
-        "boundingbox": [
-          "49.0110334",
-          "49.0117319",
-          "8.4002413",
-          "8.4012974"
-        ],
-        "lat": "49.0113834",
-        "lon": "8.40044784479954",
         "display_name": "Amtsgericht Karlsruhe, 23, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "type": "public_building",
-        "importance": 0.44367496645424
+        "class": "amenity"
       }
     }
   },
@@ -6889,21 +5448,10 @@
       },
       "data": {
         "place_id": "44297120",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3174689261",
-        "boundingbox": [
-          "49.0106456",
-          "49.0107456",
-          "8.396337",
-          "8.396437"
-        ],
-        "lat": "49.0106956",
-        "lon": "8.396387",
         "display_name": "Unikat, 24, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "clothes",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
       }
     }
@@ -6942,21 +5490,10 @@
       },
       "data": {
         "place_id": "13290401",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "1298856453",
-        "boundingbox": [
-          "49.0095893",
-          "49.0096893",
-          "8.4108445",
-          "8.4109445"
-        ],
-        "lat": "49.0096393",
-        "lon": "8.4108945",
         "display_name": "Postbank, 14, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -6995,21 +5532,10 @@
       },
       "data": {
         "place_id": "46328769",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3497281357",
-        "boundingbox": [
-          "49.0070704",
-          "49.0071704",
-          "8.4045518",
-          "8.4046518"
-        ],
-        "lat": "49.0071204",
-        "lon": "8.4046018",
         "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   },
@@ -7047,21 +5573,10 @@
       },
       "data": {
         "place_id": "14289751",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "1305922991",
-        "boundingbox": [
-          "49.0100308",
-          "49.0101308",
-          "8.3961412",
-          "8.3962412"
-        ],
-        "lat": "49.0100808",
-        "lon": "8.3961912",
         "display_name": "Nordsee, 134, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "fast_food",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
       }
     }
@@ -7100,21 +5615,10 @@
       },
       "data": {
         "place_id": "144260874",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "relation",
         "osm_id": "338753",
-        "boundingbox": [
-          "49.0101959",
-          "49.010712",
-          "8.404126",
-          "8.4050829"
-        ],
-        "lat": "49.0104387",
-        "lon": "8.4049817120103",
         "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
         "class": "amenity",
-        "type": "bank",
-        "importance": 0.221,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
       }
     }
@@ -7153,21 +5657,10 @@
       },
       "data": {
         "place_id": "95644278",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "159916388",
-        "boundingbox": [
-          "49.0114026",
-          "49.0115562",
-          "8.4013142",
-          "8.4016077"
-        ],
-        "lat": "49.0114868",
-        "lon": "8.4014417",
         "display_name": "Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway",
-        "type": "secondary",
-        "importance": 0.32
+        "class": "highway"
       }
     }
   },
@@ -7205,21 +5698,10 @@
       },
       "data": {
         "place_id": "95644278",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "159916388",
-        "boundingbox": [
-          "49.0114026",
-          "49.0115562",
-          "8.4013142",
-          "8.4016077"
-        ],
-        "lat": "49.0114868",
-        "lon": "8.4014417",
         "display_name": "Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway",
-        "type": "secondary",
-        "importance": 0.32
+        "class": "highway"
       }
     }
   },
@@ -7257,21 +5739,10 @@
       },
       "data": {
         "place_id": "23180307",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2346220749",
-        "boundingbox": [
-          "49.0074821",
-          "49.0075821",
-          "8.411255",
-          "8.411355"
-        ],
-        "lat": "49.0075321",
-        "lon": "8.411305",
         "display_name": "PC Berdoudi, 25, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "shop",
-        "type": "computer",
-        "importance": 0.331
+        "class": "shop"
       }
     }
   },
@@ -7309,21 +5780,10 @@
       },
       "data": {
         "place_id": "117221313",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "247034502",
-        "boundingbox": [
-          "49.0092571",
-          "49.0092628",
-          "8.4102605",
-          "8.4103961"
-        ],
-        "lat": "49.0092628",
-        "lon": "8.4102605",
         "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "tertiary",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -7361,21 +5821,10 @@
       },
       "data": {
         "place_id": "21359297",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2270539177",
-        "boundingbox": [
-          "49.0099323",
-          "49.0100323",
-          "8.3993043",
-          "8.3994043"
-        ],
-        "lat": "49.0099823",
-        "lon": "8.3993543",
         "display_name": "Dr. med. Cong Toan Nguyen, 104, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "amenity",
-        "type": "doctors",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/health_doctors.p.20.png"
       }
     }
@@ -7414,21 +5863,10 @@
       },
       "data": {
         "place_id": "4146433",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "454973291",
-        "boundingbox": [
-          "49.0089543",
-          "49.0090543",
-          "8.4103847",
-          "8.4104847"
-        ],
-        "lat": "49.0090043",
-        "lon": "8.4104347",
         "display_name": "Edeka Lukasiewicz, 1-3, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "supermarket",
-        "importance": 0.521,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_supermarket.p.20.png"
       }
     }
@@ -7467,21 +5905,10 @@
       },
       "data": {
         "place_id": "37245282",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2912693998",
-        "boundingbox": [
-          "49.010776",
-          "49.010876",
-          "8.396621",
-          "8.396721"
-        ],
-        "lat": "49.010826",
-        "lon": "8.396671",
         "display_name": "Gästehaus Kaiserpassage, 10, Kaiserpassage, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "guest_house",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
       }
     }
@@ -7520,21 +5947,10 @@
       },
       "data": {
         "place_id": "45893125",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3476728550",
-        "boundingbox": [
-          "49.0106707",
-          "49.0107707",
-          "8.4055167",
-          "8.4056167"
-        ],
-        "lat": "49.0107207",
-        "lon": "8.4055667",
         "display_name": "10, Schlossplatz, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.221
+        "class": "place"
       }
     }
   },
@@ -7572,21 +5988,10 @@
       },
       "data": {
         "place_id": "7995415",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "868743792",
-        "boundingbox": [
-          "49.007303",
-          "49.007403",
-          "8.4095389",
-          "8.4096389"
-        ],
-        "lat": "49.007353",
-        "lon": "8.4095889",
         "display_name": "mükra electronic, 14, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "type": "electronics",
-        "importance": 0.521
+        "class": "shop"
       }
     }
   },
@@ -7624,21 +6029,10 @@
       },
       "data": {
         "place_id": "1489739",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "330830310",
-        "boundingbox": [
-          "49.0072044",
-          "49.0073044",
-          "8.4029973",
-          "8.4030973"
-        ],
-        "lat": "49.0072544",
-        "lon": "8.4030473",
         "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "type": "parking",
-        "importance": 0.331
+        "class": "amenity"
       }
     }
   },
@@ -7676,21 +6070,10 @@
       },
       "data": {
         "place_id": "95667179",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "159902718",
-        "boundingbox": [
-          "49.0109553",
-          "49.0118525",
-          "8.3956361",
-          "8.3982534"
-        ],
-        "lat": "49.0112149",
-        "lon": "8.3963933",
         "display_name": "Akademiestraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -7728,21 +6111,10 @@
       },
       "data": {
         "place_id": "83056436",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "108351526",
-        "boundingbox": [
-          "49.0072258",
-          "49.0074028",
-          "8.408896",
-          "8.4092869"
-        ],
-        "lat": "49.00730885",
-        "lon": "8.40908045664143",
         "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "tourism",
-        "type": "museum",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
       }
     }
@@ -7781,21 +6153,10 @@
       },
       "data": {
         "place_id": "53193283",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "4188464",
-        "boundingbox": [
-          "49.0069047",
-          "49.0072054",
-          "8.4038351",
-          "8.4057163"
-        ],
-        "lat": "49.0070752",
-        "lon": "8.4048853",
         "display_name": "Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "residential",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -7833,21 +6194,10 @@
       },
       "data": {
         "place_id": "47548205",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "3286558871",
-        "boundingbox": [
-          "49.009842",
-          "49.009942",
-          "8.4009448",
-          "8.4010448"
-        ],
-        "lat": "49.009892",
-        "lon": "8.4009948",
         "display_name": "KiK, 94, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
         "class": "shop",
-        "type": "clothes",
-        "importance": 0.331,
         "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
       }
     }
@@ -7886,21 +6236,10 @@
       },
       "data": {
         "place_id": "89992905",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "way",
         "osm_id": "135628321",
-        "boundingbox": [
-          "49.0082048",
-          "49.0086804",
-          "8.4004425",
-          "8.4019441"
-        ],
-        "lat": "49.0084632",
-        "lon": "8.4011282",
         "display_name": "Friedrichsplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway",
-        "type": "pedestrian",
-        "importance": 0.43
+        "class": "highway"
       }
     }
   },
@@ -7938,21 +6277,10 @@
       },
       "data": {
         "place_id": "25347729",
-        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
         "osm_type": "node",
         "osm_id": "2459458525",
-        "boundingbox": [
-          "49.0107864",
-          "49.0108864",
-          "8.4010969",
-          "8.4011969"
-        ],
-        "lat": "49.0108364",
-        "lon": "8.4011469",
         "display_name": "38, Zirkel, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "place",
-        "type": "house",
-        "importance": 0.331
+        "class": "place"
       }
     }
   }
