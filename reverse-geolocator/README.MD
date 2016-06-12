@@ -4,7 +4,7 @@ Problem: The open data from Karlsruhe only delivers street names, but no geoloca
 
 Solution: For each event, get the address data and resolve the address into a geolocation using an external "reverse geocoding service" (<http://nominatim.openstreetmap.org>).
 
-Input data is read as a CSV file, output is written as a JSON file that can then be imported by Unity.
+Input data is read as a CSV file, output is written as a JSON file that can then be imported by Unity. The result file can be found on top level (eventlocations.json), the input file is located under packages/opendata-converter/ (ka-feedback-2015.csv).
 
 The converter is implemented as a NodeJS/MeteorJS application.
 
