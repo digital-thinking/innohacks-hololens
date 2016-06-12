@@ -124,6 +124,8 @@ function writeLocationDataToJSON() {
     }
   }, {
     fields: {
+      'createdAt': 0,
+      'updatedAt': 0,
       'location.data.licence': 0,
       'location.data.boundingbox': 0,
       'location.data.lat': 0,
