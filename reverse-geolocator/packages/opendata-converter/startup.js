@@ -3,6 +3,7 @@
 const eventsCSVFile = 'ka-feedback-2015.csv';
 const nominatimServerBase = 'http://nominatim.openstreetmap.org/search';
 const eventsCollection = app.Collections.events;
+const fs = Npm.require('fs');
 
 const mapping = {
   activity: 0,
@@ -13,8 +14,7 @@ const mapping = {
   editedAt: 5,
   channel: 6
 };
-
-const THROTTLE = 200; // throttle for requesting geo data from service in milliseconds
+const THROTTLE = 1000; // throttle for requesting geo data from service in milliseconds
 
 Meteor.startup(function() {
   // Read in CSV file
@@ -51,15 +51,18 @@ Meteor.startup(function() {
   const cursor = eventsCollection.find();
   const events = cursor.fetch();
   const numberOfEvents = cursor.count();
-  _.forEach(events, (event, index) => {
-    console.log(`processing event ${index} of ${numberOfEvents}`);
+  for (var i = 0; i < numberOfEvents; i++) {
+    const event = events[i];
+    console.log(`processing event ${i+1} of ${numberOfEvents}`);
     const address = encodeURI(event.address);
     // Retrieve geolocation data from Nomatim
     HTTP.get(`${nominatimServerBase}?q=${address}&format=json`, (error, result) => {
       if (error) {
+        // console.dir(error);
         return;
       }
       const locationData = result.data[0];
+      // console.dir(locationData);
       if (!locationData) {
         // If no geolocation can be found, remove the event
         eventsCollection.remove({
@@ -84,8 +87,14 @@ Meteor.startup(function() {
           'location.data': locationData
         }
       });
+      if (i === numberOfEvents - 1) {
+        console.log('writing');
+        const eventsToExport = eventsCollection.find().fetch();
+        fs.writeFileSync(process.env.PWD + '/eventlocations.json', JSON.stringify(eventsToExport, null, 2));
+        console.log('finished');
+      }
     });
     // Be nice to the server
     Meteor.sleep(THROTTLE);
-  });
+  }
 });
