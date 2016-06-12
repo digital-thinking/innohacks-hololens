@@ -27,9 +27,35 @@ public class SpawnPOI : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Start () {
-        Spawn(8.3941f, 49.0069f);
-        Spawn(8.4133f, 49.0069f);
-        Spawn(8.3941f, 49.0115f);
-        Spawn(8.4133f, 49.0115f);
+		Item[] items = getItems ();
+		foreach (Item item in items ){
+			Spawn ((float)item.latitude, (float)item.longitude);
+			}
+
+
     }
+
+	Item[] getItems(){
+		Item[] items  = new Item[2];
+		Item item = new Item ();
+		item.latitude = 8.40463678861771;
+		item.longitude = 49.0090215;
+		item.channel = "MOBILE";
+		item.address = "Zähringerstraße 94, 76133 Karlsruhe, Deutschland";
+		item.state = "Behoben";
+		item.category = "Gefahrenstellen";
+		items[0] = item;
+
+		Item item2 = new Item ();
+		item2.latitude = 8.4030473;
+		item2.longitude = 49.0072544;
+		item2.channel = "MOBILE";
+		item2.address = "Erbprinzenstraße 12, 76133 Karlsruhe, Deutschland";
+		item2.state = "Abgeschlossen";
+		item2.category = "Beschilderung";
+		items[1] = item;
+		return items;
+
+	}
+
 }
