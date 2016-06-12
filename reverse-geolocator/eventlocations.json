@@ -8,35 +8,8 @@
     "openedAt": "06.05.2015 10:08",
     "editedAt": "08.05.2015 11:08",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40463678861771,
-          49.0090215
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0089588",
-              "49.0090757",
-              "8.4043378",
-              "8.4047921"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "115153102",
-        "osm_type": "way",
-        "osm_id": "238157249",
-        "display_name": "94, Zähringerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40463678861771,
+    "latitude": 49.0090215
   },
   {
     "_id": "ECskaRhXF8ui4yNpE",
@@ -47,35 +20,8 @@
     "openedAt": "06.05.2015 09:58",
     "editedAt": "19.05.2015 10:33",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4030473,
-          49.0072544
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072044",
-              "49.0073044",
-              "8.4029973",
-              "8.4030973"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "1489739",
-        "osm_type": "node",
-        "osm_id": "330830310",
-        "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.4030473,
+    "latitude": 49.0072544
   },
   {
     "_id": "HhTW25Ek8htSGyuGh",
@@ -86,35 +32,8 @@
     "openedAt": "04.05.2015 19:26",
     "editedAt": "07.05.2015 09:51",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39955557803738,
-          49.0113835
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0112263",
-              "49.0115061",
-              "8.3993767",
-              "8.3997429"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83059087",
-        "osm_type": "way",
-        "osm_id": "109088723",
-        "display_name": "2, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39955557803738,
+    "latitude": 49.0113835
   },
   {
     "_id": "nRZuWmoF7pepb3S8i",
@@ -125,35 +44,8 @@
     "openedAt": "03.05.2015 18:51",
     "editedAt": "08.05.2015 13:33",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "N8QNonpatfzktkMRx",
@@ -164,35 +56,8 @@
     "openedAt": "03.05.2015 09:19",
     "editedAt": "08.05.2015 13:29",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "7tqZxJSkcYm7wrmGa",
@@ -203,35 +68,8 @@
     "openedAt": "29.04.2015 21:43",
     "editedAt": "05.05.2015 12:47",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40314912278207,
-          49.0080806
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0079914",
-              "49.0081292",
-              "8.4030481",
-              "8.4032379"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "85238853",
-        "osm_type": "way",
-        "osm_id": "108628582",
-        "display_name": "13, Hebelstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40314912278207,
+    "latitude": 49.0080806
   },
   {
     "_id": "sB6JdXgt7qYnsEhuP",
@@ -242,35 +80,8 @@
     "openedAt": "25.04.2015 23:34",
     "editedAt": "25.04.2015 23:34",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39417361650374,
-          49.00936255
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.008882",
-              "49.0098207",
-              "8.3934677",
-              "8.3948772"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "61642650",
-        "osm_type": "way",
-        "osm_id": "23633815",
-        "display_name": "Postgalerie, 217, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.39417361650374,
+    "latitude": 49.00936255
   },
   {
     "_id": "jX796g3h2XEAHjNhp",
@@ -281,35 +92,8 @@
     "openedAt": "02.01.2015 21:48",
     "editedAt": "05.01.2015 11:57",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3985099,
-          49.0105554
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104379",
-              "49.0105554",
-              "8.3983094",
-              "8.3985099"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "50382713",
-        "osm_type": "way",
-        "osm_id": "3533995",
-        "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3985099,
+    "latitude": 49.0105554
   },
   {
     "_id": "8qFKZvPJAnnXHY8hz",
@@ -320,36 +104,8 @@
     "openedAt": "09.01.2015 13:40",
     "editedAt": "14.01.2015 12:13",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4072216,
-          49.0075388
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0074888",
-              "49.0075888",
-              "8.4071716",
-              "8.4072716"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "17193126",
-        "osm_type": "node",
-        "osm_id": "1743158334",
-        "display_name": "Cafe-bohne, 30a, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
-      }
-    }
+    "longitude": 8.4072216,
+    "latitude": 49.0075388
   },
   {
     "_id": "wbS2MCC8kKxDiE9ip",
@@ -360,36 +116,8 @@
     "openedAt": "04.01.2015 12:09",
     "editedAt": "04.01.2015 12:09",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "H3KqCLf3X539xwRNv",
@@ -400,36 +128,8 @@
     "openedAt": "25.01.2015 20:38",
     "editedAt": "26.01.2015 11:06",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "mfjzDhztr9jkrhC54",
@@ -440,36 +140,8 @@
     "openedAt": "21.01.2015 12:50",
     "editedAt": "21.01.2015 12:50",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "8fiGhzatoYSxY5if9",
@@ -480,35 +152,8 @@
     "openedAt": "18.01.2015 22:35",
     "editedAt": "19.01.2015 09:41",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "wbDWnsx2QM7TeuNvK",
@@ -519,36 +164,8 @@
     "openedAt": "16.01.2015 10:37",
     "editedAt": "20.01.2015 10:14",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "yDpcDPFw2XvZXoNQx",
@@ -559,35 +176,8 @@
     "openedAt": "13.01.2015 12:55",
     "editedAt": "13.01.2015 12:55",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3972612,
-          49.0100589
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0100089",
-              "49.0101089",
-              "8.3972112",
-              "8.3973112"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "44275127",
-        "osm_type": "node",
-        "osm_id": "3286558872",
-        "display_name": "La Petite, 124, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.3972612,
+    "latitude": 49.0100589
   },
   {
     "_id": "CXfWySP7LfSdNAH5r",
@@ -598,35 +188,8 @@
     "openedAt": "13.05.2015 21:55",
     "editedAt": "22.05.2015 14:42",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "zuXXujtxdn7k93maK",
@@ -637,36 +200,8 @@
     "openedAt": "10.05.2015 20:21",
     "editedAt": "10.05.2015 20:21",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4104187,
-          49.0076203
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0075703",
-              "49.0076703",
-              "8.4103687",
-              "8.4104687"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "119750",
-        "osm_type": "node",
-        "osm_id": "25236155",
-        "display_name": "Johannes-Apotheke, 27a, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/health_pharmacy_dispensing.p.20.png"
-      }
-    }
+    "longitude": 8.4104187,
+    "latitude": 49.0076203
   },
   {
     "_id": "muM2m3sm57ta4hbZh",
@@ -677,35 +212,8 @@
     "openedAt": "20.04.2015 17:29",
     "editedAt": "27.04.2015 14:00",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4037197,
-          49.0074786
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070099",
-              "49.0074929",
-              "8.4036736",
-              "8.403721"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "142193162",
-        "osm_type": "way",
-        "osm_id": "373893806",
-        "display_name": "Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4037197,
+    "latitude": 49.0074786
   },
   {
     "_id": "edQCyoXK76MXY3ht3",
@@ -716,35 +224,8 @@
     "openedAt": "20.04.2015 16:58",
     "editedAt": "23.04.2015 16:08",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40007620000001,
-          49.0085704
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0084584",
-              "49.0086824",
-              "8.3998553",
-              "8.4002971"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "78438358",
-        "osm_type": "way",
-        "osm_id": "90033144",
-        "display_name": "14, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40007620000001,
+    "latitude": 49.0085704
   },
   {
     "_id": "DfN7TQqoAzSXZSbJx",
@@ -755,36 +236,8 @@
     "openedAt": "19.04.2015 17:53",
     "editedAt": "23.04.2015 17:02",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3984971,
-          49.0107008
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0106508",
-              "49.0107508",
-              "8.3984471",
-              "8.3985471"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "257441",
-        "osm_type": "node",
-        "osm_id": "60019232",
-        "display_name": "Aldi Süd, 14-18, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_supermarket.p.20.png"
-      }
-    }
+    "longitude": 8.3984971,
+    "latitude": 49.0107008
   },
   {
     "_id": "Y9xDLAZ3hyJ3Xhzo3",
@@ -795,35 +248,8 @@
     "openedAt": "16.04.2015 18:11",
     "editedAt": "22.04.2015 11:49",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4018962,
-          49.0081335
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0081008",
-              "49.0082048",
-              "8.4018736",
-              "8.4019441"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "2618798988",
-        "osm_type": "way",
-        "osm_id": "422832206",
-        "display_name": "Lammstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4018962,
+    "latitude": 49.0081335
   },
   {
     "_id": "Ztwk4KRiW4KDWtDu8",
@@ -834,35 +260,8 @@
     "openedAt": "15.04.2015 21:22",
     "editedAt": "15.04.2015 21:22",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3985099,
-          49.0105554
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0105554",
-              "49.0111343",
-              "8.3976759",
-              "8.3985099"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "50356619",
-        "osm_type": "way",
-        "osm_id": "3924806",
-        "display_name": "Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3985099,
+    "latitude": 49.0105554
   },
   {
     "_id": "3abZhsnLPbwG3n26P",
@@ -873,36 +272,8 @@
     "openedAt": "12.04.2015 16:30",
     "editedAt": "12.04.2015 16:30",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "k3a8n9oJvA8KJaR57",
@@ -913,36 +284,8 @@
     "openedAt": "09.04.2015 12:26",
     "editedAt": "09.04.2015 12:26",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4034045,
-          49.0091217
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0090717",
-              "49.0091717",
-              "8.4033545",
-              "8.4034545"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "275933",
-        "osm_type": "node",
-        "osm_id": "69119884",
-        "display_name": "Marktlücke, 8, Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_pub.p.20.png"
-      }
-    }
+    "longitude": 8.4034045,
+    "latitude": 49.0091217
   },
   {
     "_id": "sfTPCJbmLtKDANDHT",
@@ -953,35 +296,8 @@
     "openedAt": "08.04.2015 18:24",
     "editedAt": "10.04.2015 09:23",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "hbHTshmspSZXfczEM",
@@ -992,35 +308,8 @@
     "openedAt": "31.03.2015 08:59",
     "editedAt": "31.03.2015 08:59",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40553430967599,
-          49.00904485
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0089093",
-              "49.0091467",
-              "8.4054374",
-              "8.4056248"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82881962",
-        "osm_type": "way",
-        "osm_id": "108468351",
-        "display_name": "Communications Engineering Lab, 11, Kreuzstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40553430967599,
+    "latitude": 49.00904485
   },
   {
     "_id": "ePeWH4pPCYsSJ8tjY",
@@ -1031,35 +320,8 @@
     "openedAt": "22.03.2015 18:41",
     "editedAt": "27.03.2015 11:03",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4106181,
-          49.0070527
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070027",
-              "49.0071027",
-              "8.4105681",
-              "8.4106681"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48899276",
-        "osm_type": "node",
-        "osm_id": "3526802120",
-        "display_name": "Göktur Reisen, 17, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.4106181,
+    "latitude": 49.0070527
   },
   {
     "_id": "sZwFhz9bfzc9Z9JtP",
@@ -1070,35 +332,8 @@
     "openedAt": "22.03.2015 11:33",
     "editedAt": "27.03.2015 13:17",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4059386,
-          49.0070434
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0069934",
-              "49.0070934",
-              "8.4058886",
-              "8.4059886"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "6738465",
-        "osm_type": "node",
-        "osm_id": "775307298",
-        "display_name": "17, Kreuzstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4059386,
+    "latitude": 49.0070434
   },
   {
     "_id": "LXK5tms5JZZMsDwiZ",
@@ -1109,35 +344,8 @@
     "openedAt": "19.03.2015 20:45",
     "editedAt": "25.03.2015 11:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "gBGZGoP3FLK4TzRdL",
@@ -1148,35 +356,8 @@
     "openedAt": "13.03.2015 20:57",
     "editedAt": "17.03.2015 14:20",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "8peD9TaCG3h4wyWxx",
@@ -1187,35 +368,8 @@
     "openedAt": "13.03.2015 20:57",
     "editedAt": "17.03.2015 14:20",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "6zJS74vaEADap5LnW",
@@ -1226,36 +380,8 @@
     "openedAt": "11.03.2015 14:50",
     "editedAt": "11.03.2015 14:50",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4080126,
-          49.0096812
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0096312",
-              "49.0097312",
-              "8.4079626",
-              "8.4080626"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "24056146",
-        "osm_type": "node",
-        "osm_id": "2371306354",
-        "display_name": "Star Cut, 22, Kronenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_hairdresser.p.20.png"
-      }
-    }
+    "longitude": 8.4080126,
+    "latitude": 49.0096812
   },
   {
     "_id": "kGiDXrgFeckBAKYbz",
@@ -1266,35 +392,8 @@
     "openedAt": "11.03.2015 07:47",
     "editedAt": "11.03.2015 16:25",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4013669,
-          49.0100526
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0100026",
-              "49.0101026",
-              "8.4013169",
-              "8.4014169"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "25040823",
-        "osm_type": "node",
-        "osm_id": "2459399316",
-        "display_name": "8, Ritterstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4013669,
+    "latitude": 49.0100526
   },
   {
     "_id": "NgoPvwhjfSJfXXcsj",
@@ -1305,35 +404,8 @@
     "openedAt": "06.03.2015 11:15",
     "editedAt": "12.03.2015 15:19",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39734546807729,
-          49.00819035
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.00812",
-              "49.0082598",
-              "8.3972395",
-              "8.3974511"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82627851",
-        "osm_type": "way",
-        "osm_id": "109149507",
-        "display_name": "40, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39734546807729,
+    "latitude": 49.00819035
   },
   {
     "_id": "cMi9HHCuH5mz9Aqe6",
@@ -1344,35 +416,8 @@
     "openedAt": "04.03.2015 20:01",
     "editedAt": "05.03.2015 16:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4102605,
-          49.0092628
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0092571",
-              "49.0092628",
-              "8.4102605",
-              "8.4103961"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "117221313",
-        "osm_type": "way",
-        "osm_id": "247034502",
-        "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4102605,
+    "latitude": 49.0092628
   },
   {
     "_id": "NsCWdwmkZ9jJW5ECG",
@@ -1383,35 +428,8 @@
     "openedAt": "03.03.2015 11:58",
     "editedAt": "03.03.2015 11:58",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39417361650374,
-          49.00936255
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.008882",
-              "49.0098207",
-              "8.3934677",
-              "8.3948772"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "61642650",
-        "osm_type": "way",
-        "osm_id": "23633815",
-        "display_name": "Postgalerie, 217, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.39417361650374,
+    "latitude": 49.00936255
   },
   {
     "_id": "nLcNfxwZ5u8NGDnA9",
@@ -1422,35 +440,8 @@
     "openedAt": "03.03.2015 11:52",
     "editedAt": "11.03.2015 07:46",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39734546807729,
-          49.00819035
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.00812",
-              "49.0082598",
-              "8.3972395",
-              "8.3974511"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82627851",
-        "osm_type": "way",
-        "osm_id": "109149507",
-        "display_name": "40, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39734546807729,
+    "latitude": 49.00819035
   },
   {
     "_id": "hoFdYeBNTKjkHi9ox",
@@ -1461,35 +452,8 @@
     "openedAt": "27.02.2015 17:34",
     "editedAt": "05.03.2015 09:48",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39963235477607,
-          49.00780215
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072682",
-              "49.008074",
-              "8.3990879",
-              "8.3998621"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "198026306",
-        "osm_type": "way",
-        "osm_id": "238165707",
-        "display_name": "SSA KA, 16-20, Ritterstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "office"
-      }
-    }
+    "longitude": 8.39963235477607,
+    "latitude": 49.00780215
   },
   {
     "_id": "bm77t2WJ8A7Fm7SEx",
@@ -1500,35 +464,8 @@
     "openedAt": "26.02.2015 21:53",
     "editedAt": "26.02.2015 21:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "tKRjpkBmxJhc5wHKu",
@@ -1539,35 +476,8 @@
     "openedAt": "24.02.2015 16:57",
     "editedAt": "24.02.2015 16:57",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "G3nzxoDFr2J3k5T9B",
@@ -1578,36 +488,8 @@
     "openedAt": "24.02.2015 07:53",
     "editedAt": "24.02.2015 07:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4115692,
-          49.0087265
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0086765",
-              "49.0087765",
-              "8.4115192",
-              "8.4116192"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "37540126",
-        "osm_type": "node",
-        "osm_id": "2900776804",
-        "display_name": "Tasse mit Pfiff, 31, Waldhornstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
-      }
-    }
+    "longitude": 8.4115692,
+    "latitude": 49.0087265
   },
   {
     "_id": "y64Ea7Ci98xkWkB33",
@@ -1618,35 +500,8 @@
     "openedAt": "23.02.2015 18:08",
     "editedAt": "24.02.2015 08:07",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39840179205426,
-          49.00875275
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0087202",
-              "49.0087853",
-              "8.398353",
-              "8.3984506"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "135017223",
-        "osm_type": "way",
-        "osm_id": "345699834",
-        "display_name": "23a, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39840179205426,
+    "latitude": 49.00875275
   },
   {
     "_id": "ZdWE6PTbA8TQC5TeY",
@@ -1657,35 +512,8 @@
     "openedAt": "23.02.2015 14:46",
     "editedAt": "23.02.2015 15:09",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3978446,
-          49.0085889
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0085389",
-              "49.0086389",
-              "8.3977946",
-              "8.3978946"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "4444786",
-        "osm_type": "node",
-        "osm_id": "524525460",
-        "display_name": "Stephanus Buchhandlung, 34, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.3978446,
+    "latitude": 49.0085889
   },
   {
     "_id": "MSZM3KDKyWYu3nSRm",
@@ -1696,35 +524,8 @@
     "openedAt": "21.02.2015 17:37",
     "editedAt": "21.02.2015 17:37",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40701694732614,
-          49.0070674
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0069911",
-              "49.0071386",
-              "8.4069033",
-              "8.4071302"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82721875",
-        "osm_type": "way",
-        "osm_id": "108006544",
-        "display_name": "25, Steinstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40701694732614,
+    "latitude": 49.0070674
   },
   {
     "_id": "Dxq8SaQyfZdYfet59",
@@ -1735,35 +536,8 @@
     "openedAt": "21.02.2015 15:42",
     "editedAt": "23.02.2015 08:37",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "4pRxzxYX62Ctohgcr",
@@ -1774,36 +548,8 @@
     "openedAt": "20.02.2015 23:45",
     "editedAt": "23.02.2015 08:38",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "6BSWyzKhwZtF96iH9",
@@ -1814,35 +560,8 @@
     "openedAt": "20.02.2015 12:10",
     "editedAt": "23.02.2015 09:23",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "cs8wWvP7w2RoMsAzP",
@@ -1853,35 +572,8 @@
     "openedAt": "20.02.2015 12:07",
     "editedAt": "20.02.2015 12:07",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "762mPq4BgPkBDrebE",
@@ -1892,35 +584,8 @@
     "openedAt": "20.02.2015 12:05",
     "editedAt": "23.02.2015 09:16",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "GzPr4fmG5DWQ2Lx8f",
@@ -1931,35 +596,8 @@
     "openedAt": "19.02.2015 13:03",
     "editedAt": "20.02.2015 09:02",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3998147,
-          49.011476
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0114369",
-              "49.0115497",
-              "8.3996323",
-              "8.4000192"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "123972646",
-        "osm_type": "way",
-        "osm_id": "261420056",
-        "display_name": "Hans-Thoma-Straße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3998147,
+    "latitude": 49.011476
   },
   {
     "_id": "rcAYoc3Q8RC8Qu7C3",
@@ -1970,35 +608,8 @@
     "openedAt": "13.02.2015 12:30",
     "editedAt": "25.02.2015 14:59",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4095181,
-          49.0079355
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0078855",
-              "49.0079855",
-              "8.4094681",
-              "8.4095681"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "3958150",
-        "osm_type": "node",
-        "osm_id": "454992577",
-        "display_name": "36, Kronenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.4095181,
+    "latitude": 49.0079355
   },
   {
     "_id": "BsGXL36YNKnmRB997",
@@ -2009,36 +620,8 @@
     "openedAt": "12.02.2015 07:53",
     "editedAt": "12.02.2015 07:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40023479375978,
-          49.0070721
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0065802",
-              "49.0075626",
-              "8.3994186",
-              "8.4010025"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "52021811",
-        "osm_type": "way",
-        "osm_id": "4058954",
-        "display_name": "Staatliches Museum für Naturkunde, 13, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40023479375978,
+    "latitude": 49.0070721
   },
   {
     "_id": "hmYTaQoDo25SjJ5jY",
@@ -2049,36 +632,8 @@
     "openedAt": "10.02.2015 14:22",
     "editedAt": "11.02.2015 15:44",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "xJrbs4sGQepPN6BFn",
@@ -2089,35 +644,8 @@
     "openedAt": "09.02.2015 12:58",
     "editedAt": "12.02.2015 08:57",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40007620000001,
-          49.0085704
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0084584",
-              "49.0086824",
-              "8.3998553",
-              "8.4002971"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "78438358",
-        "osm_type": "way",
-        "osm_id": "90033144",
-        "display_name": "14, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40007620000001,
+    "latitude": 49.0085704
   },
   {
     "_id": "T3rdqng52XsPooRXo",
@@ -2128,35 +656,8 @@
     "openedAt": "31.01.2015 23:25",
     "editedAt": "03.02.2015 13:32",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3985099,
-          49.0105554
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104379",
-              "49.0105554",
-              "8.3983094",
-              "8.3985099"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "50382713",
-        "osm_type": "way",
-        "osm_id": "3533995",
-        "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3985099,
+    "latitude": 49.0105554
   },
   {
     "_id": "WoSyti6Dg8RBTBk9p",
@@ -2167,35 +668,8 @@
     "openedAt": "31.01.2015 23:14",
     "editedAt": "03.02.2015 13:32",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "3RsY8ZJQjJ3XJfcY2",
@@ -2206,35 +680,8 @@
     "openedAt": "21.12.2015 13:39",
     "editedAt": "04.02.2016 13:57",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39632242,
-          49.0075212
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0074285",
-              "49.00758",
-              "8.3962039",
-              "8.3964156"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83301149",
-        "osm_type": "way",
-        "osm_id": "109149505",
-        "display_name": "4, Amalienstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39632242,
+    "latitude": 49.0075212
   },
   {
     "_id": "fbS3PQtCK6P3Df4qp",
@@ -2245,35 +692,8 @@
     "openedAt": "17.12.2015 11:34",
     "editedAt": "29.12.2015 10:38",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4048853,
-          49.0070752
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0069047",
-              "49.0072054",
-              "8.4038351",
-              "8.4057163"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "53193283",
-        "osm_type": "way",
-        "osm_id": "4188464",
-        "display_name": "Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4048853,
+    "latitude": 49.0070752
   },
   {
     "_id": "ynWjLiGwGHBkDiNuD",
@@ -2284,35 +704,8 @@
     "openedAt": "16.12.2015 20:58",
     "editedAt": "29.12.2015 10:35",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39951260253866,
-          49.01101955
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0109712",
-              "49.0110677",
-              "8.3994402",
-              "8.399585"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "85180799",
-        "osm_type": "way",
-        "osm_id": "108390802",
-        "display_name": "7, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39951260253866,
+    "latitude": 49.01101955
   },
   {
     "_id": "rFFTRAi6mxWKzxnTq",
@@ -2323,36 +716,8 @@
     "openedAt": "14.12.2015 18:32",
     "editedAt": "14.12.2015 18:32",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40023479375978,
-          49.0070721
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0065802",
-              "49.0075626",
-              "8.3994186",
-              "8.4010025"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "52021811",
-        "osm_type": "way",
-        "osm_id": "4058954",
-        "display_name": "Staatliches Museum für Naturkunde, 13, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40023479375978,
+    "latitude": 49.0070721
   },
   {
     "_id": "qonYmxjQDtsHiyGLt",
@@ -2363,35 +728,8 @@
     "openedAt": "13.12.2015 14:55",
     "editedAt": "13.12.2015 14:55",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4029036,
-          49.009449
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.009399",
-              "49.009499",
-              "8.4028536",
-              "8.4029536"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46494085",
-        "osm_type": "node",
-        "osm_id": "3520551327",
-        "display_name": "L'Occitane en Provence, 145, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.4029036,
+    "latitude": 49.009449
   },
   {
     "_id": "ePdB2gSsuYFXdt2u9",
@@ -2402,35 +740,8 @@
     "openedAt": "09.12.2015 11:34",
     "editedAt": "11.12.2015 08:20",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4110693,
-          49.0091347
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0090847",
-              "49.0091847",
-              "8.4110193",
-              "8.4111193"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "27398481",
-        "osm_type": "node",
-        "osm_id": "2631395319",
-        "display_name": "Copy World, 67, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.4110693,
+    "latitude": 49.0091347
   },
   {
     "_id": "ZET8FWQQi4qwR5mnd",
@@ -2441,35 +752,8 @@
     "openedAt": "04.12.2015 16:22",
     "editedAt": "15.01.2016 18:03",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3948323,
-          49.010217
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.010167",
-              "49.010267",
-              "8.3947823",
-              "8.3948823"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "1225779",
-        "osm_type": "node",
-        "osm_id": "305533113",
-        "display_name": "Saturn, 146-148, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.3948323,
+    "latitude": 49.010217
   },
   {
     "_id": "X6FkcMM5SXgsiEfZS",
@@ -2480,35 +764,8 @@
     "openedAt": "01.12.2015 14:12",
     "editedAt": "07.12.2015 14:00",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.41039026758655,
-          49.01074455
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0105266",
-              "49.0109602",
-              "8.4098597",
-              "8.4106991"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "84806159",
-        "osm_type": "way",
-        "osm_id": "108757477",
-        "display_name": "10, Englerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.41039026758655,
+    "latitude": 49.01074455
   },
   {
     "_id": "4DGvo822qRjkTSeiX",
@@ -2519,35 +776,8 @@
     "openedAt": "30.11.2015 16:24",
     "editedAt": "01.12.2015 06:40",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3972793,
-          49.0079469
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0079469",
-              "49.0086271",
-              "8.3972793",
-              "8.3980841"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "96534666",
-        "osm_type": "way",
-        "osm_id": "160484295",
-        "display_name": "Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3972793,
+    "latitude": 49.0079469
   },
   {
     "_id": "884GJDQTPXcCQaT6v",
@@ -2558,35 +788,8 @@
     "openedAt": "29.11.2015 17:20",
     "editedAt": "15.12.2015 08:09",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4002012,
-          49.00992
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.00987",
-              "49.00997",
-              "8.4001512",
-              "8.4002512"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "2610612706",
-        "osm_type": "node",
-        "osm_id": "4109525436",
-        "display_name": "borellimmobilien, 98, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "office"
-      }
-    }
+    "longitude": 8.4002012,
+    "latitude": 49.00992
   },
   {
     "_id": "rtvih9eXyDzmRLQGf",
@@ -2597,35 +800,8 @@
     "openedAt": "26.11.2015 16:35",
     "editedAt": "03.12.2015 13:25",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4102247163659,
-          49.009779
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0096959",
-              "49.0098568",
-              "8.410107",
-              "8.4103499"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "85274510",
-        "osm_type": "way",
-        "osm_id": "108757480",
-        "display_name": "19, Waldhornstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.4102247163659,
+    "latitude": 49.009779
   },
   {
     "_id": "4ac7CezcbzKBR6zki",
@@ -2636,36 +812,8 @@
     "openedAt": "23.11.2015 11:45",
     "editedAt": "24.11.2015 09:43",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3952886,
-          49.0104632
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104132",
-              "49.0105132",
-              "8.3952386",
-              "8.3953386"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49211162",
-        "osm_type": "node",
-        "osm_id": "3581824857",
-        "display_name": "TOP 10, 17, Karlstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_hairdresser.p.20.png"
-      }
-    }
+    "longitude": 8.3952886,
+    "latitude": 49.0104632
   },
   {
     "_id": "w99spwDncm92p94gZ",
@@ -2676,36 +824,8 @@
     "openedAt": "23.11.2015 11:41",
     "editedAt": "25.11.2015 10:10",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3952886,
-          49.0104632
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104132",
-              "49.0105132",
-              "8.3952386",
-              "8.3953386"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49211162",
-        "osm_type": "node",
-        "osm_id": "3581824857",
-        "display_name": "TOP 10, 17, Karlstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_hairdresser.p.20.png"
-      }
-    }
+    "longitude": 8.3952886,
+    "latitude": 49.0104632
   },
   {
     "_id": "gKS3s7af2WLz32RpE",
@@ -2716,35 +836,8 @@
     "openedAt": "20.11.2015 12:49",
     "editedAt": "20.11.2015 12:49",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "5AAoaJZzvizRdnW73",
@@ -2755,36 +848,8 @@
     "openedAt": "16.11.2015 13:08",
     "editedAt": "19.11.2015 07:45",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39670390316495,
-          49.00917495
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0091022",
-              "49.0092479",
-              "8.3965951",
-              "8.3968129"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "2617845390",
-        "osm_type": "way",
-        "osm_id": "421511739",
-        "display_name": "SEN, 32, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
-      }
-    }
+    "longitude": 8.39670390316495,
+    "latitude": 49.00917495
   },
   {
     "_id": "Wywk5ZY7xsDiBQFkZ",
@@ -2795,36 +860,8 @@
     "openedAt": "10.11.2015 20:09",
     "editedAt": "13.11.2015 11:24",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40908045664143,
-          49.00730885
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072258",
-              "49.0074028",
-              "8.408896",
-              "8.4092869"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83056436",
-        "osm_type": "way",
-        "osm_id": "108351526",
-        "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40908045664143,
+    "latitude": 49.00730885
   },
   {
     "_id": "XKioStKaTH5sg46CA",
@@ -2835,36 +872,8 @@
     "openedAt": "04.11.2015 17:20",
     "editedAt": "04.11.2015 17:20",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4009948,
-          49.009892
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.009842",
-              "49.009942",
-              "8.4009448",
-              "8.4010448"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "47548205",
-        "osm_type": "node",
-        "osm_id": "3286558871",
-        "display_name": "KiK, 94, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-      }
-    }
+    "longitude": 8.4009948,
+    "latitude": 49.009892
   },
   {
     "_id": "o54rZKYc63MqzcqDD",
@@ -2875,36 +884,8 @@
     "openedAt": "01.11.2015 12:23",
     "editedAt": "02.11.2015 10:22",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.399927,
-          49.0103794
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0103294",
-              "49.0104294",
-              "8.399877",
-              "8.399977"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46292660",
-        "osm_type": "node",
-        "osm_id": "3581824854",
-        "display_name": "Shogun Ya Sushi, 12, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_restaurant.p.20.png"
-      }
-    }
+    "longitude": 8.399927,
+    "latitude": 49.0103794
   },
   {
     "_id": "ymST9gdP6cPLzPXsY",
@@ -2915,36 +896,8 @@
     "openedAt": "01.11.2015 12:16",
     "editedAt": "06.11.2015 07:46",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4104347,
-          49.0090043
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0089543",
-              "49.0090543",
-              "8.4103847",
-              "8.4104847"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "4146433",
-        "osm_type": "node",
-        "osm_id": "454973291",
-        "display_name": "Edeka Lukasiewicz, 1-3, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_supermarket.p.20.png"
-      }
-    }
+    "longitude": 8.4104347,
+    "latitude": 49.0090043
   },
   {
     "_id": "t8wqERTokfiBRFGYH",
@@ -2955,35 +908,8 @@
     "openedAt": "29.10.2015 22:41",
     "editedAt": "29.10.2015 22:41",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.41303001141917,
-          49.00726335
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070985",
-              "49.0074384",
-              "8.4127658",
-              "8.4131699"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "81892177",
-        "osm_type": "way",
-        "osm_id": "108793454",
-        "display_name": "58, Kapellenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.41303001141917,
+    "latitude": 49.00726335
   },
   {
     "_id": "dvYPreKJMLZpuMCNJ",
@@ -2994,36 +920,8 @@
     "openedAt": "25.10.2015 11:29",
     "editedAt": "28.10.2015 13:23",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40908045664143,
-          49.00730885
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072258",
-              "49.0074028",
-              "8.408896",
-              "8.4092869"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83056436",
-        "osm_type": "way",
-        "osm_id": "108351526",
-        "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40908045664143,
+    "latitude": 49.00730885
   },
   {
     "_id": "H3gjnkrKN8asrgycP",
@@ -3034,35 +932,8 @@
     "openedAt": "24.10.2015 12:31",
     "editedAt": "28.10.2015 13:42",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39564896299636,
-          49.00949985
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0093863",
-              "49.0095987",
-              "8.39545",
-              "8.3959114"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "115275464",
-        "osm_type": "way",
-        "osm_id": "237659884",
-        "display_name": "38, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39564896299636,
+    "latitude": 49.00949985
   },
   {
     "_id": "TFs4raRMzwZR9S4LC",
@@ -3073,35 +944,8 @@
     "openedAt": "21.10.2015 17:38",
     "editedAt": "21.10.2015 17:38",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4030473,
-          49.0072544
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072044",
-              "49.0073044",
-              "8.4029973",
-              "8.4030973"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "1489739",
-        "osm_type": "node",
-        "osm_id": "330830310",
-        "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.4030473,
+    "latitude": 49.0072544
   },
   {
     "_id": "Ty42Fnw4NPaXQta2i",
@@ -3112,35 +956,8 @@
     "openedAt": "21.10.2015 17:37",
     "editedAt": "21.10.2015 17:37",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4030473,
-          49.0072544
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072044",
-              "49.0073044",
-              "8.4029973",
-              "8.4030973"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "1489739",
-        "osm_type": "node",
-        "osm_id": "330830310",
-        "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.4030473,
+    "latitude": 49.0072544
   },
   {
     "_id": "jesA9fjY5fjPS4ytE",
@@ -3151,35 +968,8 @@
     "openedAt": "21.10.2015 13:36",
     "editedAt": "28.10.2015 13:45",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39776440924784,
-          49.01131845
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0112306",
-              "49.0114048",
-              "8.3976607",
-              "8.3978506"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83410953",
-        "osm_type": "way",
-        "osm_id": "109093965",
-        "display_name": "10, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39776440924784,
+    "latitude": 49.01131845
   },
   {
     "_id": "4pXYye9zSdLgENef2",
@@ -3190,35 +980,8 @@
     "openedAt": "21.10.2015 13:34",
     "editedAt": "23.10.2015 13:05",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39776440924784,
-          49.01131845
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0112306",
-              "49.0114048",
-              "8.3976607",
-              "8.3978506"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83410953",
-        "osm_type": "way",
-        "osm_id": "109093965",
-        "display_name": "10, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39776440924784,
+    "latitude": 49.01131845
   },
   {
     "_id": "M7wu57rrBHxiCGiH5",
@@ -3229,35 +992,8 @@
     "openedAt": "17.10.2015 14:48",
     "editedAt": "17.10.2015 14:48",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40701694732614,
-          49.0070674
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0069911",
-              "49.0071386",
-              "8.4069033",
-              "8.4071302"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82721875",
-        "osm_type": "way",
-        "osm_id": "108006544",
-        "display_name": "25, Steinstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.40701694732614,
+    "latitude": 49.0070674
   },
   {
     "_id": "SwNFwLBnYQ5Th7uqj",
@@ -3268,36 +1004,8 @@
     "openedAt": "10.10.2015 18:46",
     "editedAt": "10.10.2015 18:46",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39847174685507,
-          49.00971935
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0096493",
-              "49.0097525",
-              "8.3984049",
-              "8.3985348"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "127667217",
-        "osm_type": "way",
-        "osm_id": "288535412",
-        "display_name": "Orsay, 187, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-      }
-    }
+    "longitude": 8.39847174685507,
+    "latitude": 49.00971935
   },
   {
     "_id": "8Ap7Qtjfk5NRrRRhA",
@@ -3308,36 +1016,8 @@
     "openedAt": "10.10.2015 18:45",
     "editedAt": "10.10.2015 18:45",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3991262,
-          49.0099614
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0099114",
-              "49.0100114",
-              "8.3990762",
-              "8.3991762"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "13422372",
-        "osm_type": "node",
-        "osm_id": "1305923026",
-        "display_name": "StreetOne, 106, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-      }
-    }
+    "longitude": 8.3991262,
+    "latitude": 49.0099614
   },
   {
     "_id": "vg4RjgSmvpDygAyk3",
@@ -3348,35 +1028,8 @@
     "openedAt": "10.10.2015 13:20",
     "editedAt": "10.10.2015 13:20",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4029292,
-          49.00712
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0069567",
-              "49.0071552",
-              "8.4028172",
-              "8.403427"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "130972909",
-        "osm_type": "way",
-        "osm_id": "313382602",
-        "display_name": "Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4029292,
+    "latitude": 49.00712
   },
   {
     "_id": "Z8iLFkvzTP89k3TzX",
@@ -3387,35 +1040,8 @@
     "openedAt": "03.10.2015 21:36",
     "editedAt": "08.10.2015 16:52",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3985099,
-          49.0105554
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104379",
-              "49.0105554",
-              "8.3983094",
-              "8.3985099"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "50382713",
-        "osm_type": "way",
-        "osm_id": "3533995",
-        "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3985099,
+    "latitude": 49.0105554
   },
   {
     "_id": "udSvpmKPPn47ZgQdN",
@@ -3426,35 +1052,8 @@
     "openedAt": "03.10.2015 21:31",
     "editedAt": "08.10.2015 16:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39776440924784,
-          49.01131845
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0112306",
-              "49.0114048",
-              "8.3976607",
-              "8.3978506"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83410953",
-        "osm_type": "way",
-        "osm_id": "109093965",
-        "display_name": "10, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39776440924784,
+    "latitude": 49.01131845
   },
   {
     "_id": "QJc3d7Amj6KKjErSn",
@@ -3465,36 +1064,8 @@
     "openedAt": "02.10.2015 19:48",
     "editedAt": "05.10.2015 09:17",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4034696,
-          49.0071575
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0071075",
-              "49.0072075",
-              "8.4034196",
-              "8.4035196"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "22569612",
-        "osm_type": "node",
-        "osm_id": "2315127570",
-        "display_name": "GelbeSeiten, 22, Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_pub.p.20.png"
-      }
-    }
+    "longitude": 8.4034696,
+    "latitude": 49.0071575
   },
   {
     "_id": "whBWL5BFy35ofuei3",
@@ -3505,36 +1076,8 @@
     "openedAt": "02.10.2015 19:48",
     "editedAt": "05.10.2015 08:42",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4034696,
-          49.0071575
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0071075",
-              "49.0072075",
-              "8.4034196",
-              "8.4035196"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "22569612",
-        "osm_type": "node",
-        "osm_id": "2315127570",
-        "display_name": "GelbeSeiten, 22, Karl-Friedrich-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_pub.p.20.png"
-      }
-    }
+    "longitude": 8.4034696,
+    "latitude": 49.0071575
   },
   {
     "_id": "mtyJ2igcyskLgLtaT",
@@ -3545,35 +1088,8 @@
     "openedAt": "02.10.2015 15:49",
     "editedAt": "02.10.2015 15:49",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3985099,
-          49.0105554
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104379",
-              "49.0105554",
-              "8.3983094",
-              "8.3985099"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "50382713",
-        "osm_type": "way",
-        "osm_id": "3533995",
-        "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3985099,
+    "latitude": 49.0105554
   },
   {
     "_id": "sSv4tpquNyQvrYLTr",
@@ -3584,35 +1100,8 @@
     "openedAt": "28.09.2015 22:00",
     "editedAt": "28.09.2015 22:00",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3964151,
-          49.0072233
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070865",
-              "49.0072788",
-              "8.3962554",
-              "8.3964787"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "140420322",
-        "osm_type": "way",
-        "osm_id": "378845127",
-        "display_name": "Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3964151,
+    "latitude": 49.0072233
   },
   {
     "_id": "Kng5etvhPveJxakds",
@@ -3623,35 +1112,8 @@
     "openedAt": "28.09.2015 08:59",
     "editedAt": "28.09.2015 10:00",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4109233,
-          49.0092334
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0092245",
-              "49.0092334",
-              "8.4109233",
-              "8.4111548"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "122568597",
-        "osm_type": "way",
-        "osm_id": "281839641",
-        "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4109233,
+    "latitude": 49.0092334
   },
   {
     "_id": "gp82oL9rKXCcYF36D",
@@ -3662,35 +1124,8 @@
     "openedAt": "22.09.2015 10:25",
     "editedAt": "22.09.2015 10:25",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "TpRmYAQoLdS9MGZy6",
@@ -3701,35 +1136,8 @@
     "openedAt": "20.09.2015 20:41",
     "editedAt": "20.09.2015 20:41",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "Df4iHYPHNGeHnaCHg",
@@ -3740,35 +1148,8 @@
     "openedAt": "20.09.2015 20:41",
     "editedAt": "20.09.2015 20:41",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3971922,
-          49.0109192
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0108692",
-              "49.0109692",
-              "8.3971422",
-              "8.3972422"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48397066",
-        "osm_type": "node",
-        "osm_id": "3663956215",
-        "display_name": "22, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.3971922,
+    "latitude": 49.0109192
   },
   {
     "_id": "CZE6bErgtg3ngRg75",
@@ -3779,35 +1160,8 @@
     "openedAt": "19.09.2015 09:08",
     "editedAt": "23.09.2015 16:48",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4126263,
-          49.0086415
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0085897",
-              "49.0086933",
-              "8.412529",
-              "8.4127236"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82777743",
-        "osm_type": "way",
-        "osm_id": "108777130",
-        "display_name": "22, Zähringerstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.4126263,
+    "latitude": 49.0086415
   },
   {
     "_id": "DPQSTN9ewzGis3zoA",
@@ -3818,35 +1172,8 @@
     "openedAt": "14.09.2015 12:51",
     "editedAt": "15.09.2015 11:02",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "Wn7Ck5i3r9ThTbmBX",
@@ -3857,35 +1184,8 @@
     "openedAt": "08.09.2015 19:45",
     "editedAt": "08.09.2015 19:45",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4102605,
-          49.0092628
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0092571",
-              "49.0092628",
-              "8.4102605",
-              "8.4103961"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "117221313",
-        "osm_type": "way",
-        "osm_id": "247034502",
-        "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4102605,
+    "latitude": 49.0092628
   },
   {
     "_id": "eyTBCouvhCryfdDwx",
@@ -3896,35 +1196,8 @@
     "openedAt": "08.09.2015 17:22",
     "editedAt": "08.09.2015 17:22",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4101812,
-          49.0086162
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0085456",
-              "49.0086567",
-              "8.4101714",
-              "8.4101869"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "119838666",
-        "osm_type": "way",
-        "osm_id": "259736406",
-        "display_name": "Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4101812,
+    "latitude": 49.0086162
   },
   {
     "_id": "3iAy8XjWM4wv2LiGL",
@@ -3935,36 +1208,8 @@
     "openedAt": "04.09.2015 14:24",
     "editedAt": "07.09.2015 11:55",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40908045664143,
-          49.00730885
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072258",
-              "49.0074028",
-              "8.408896",
-              "8.4092869"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83056436",
-        "osm_type": "way",
-        "osm_id": "108351526",
-        "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40908045664143,
+    "latitude": 49.00730885
   },
   {
     "_id": "deTbH9s2wiYpcaGNk",
@@ -3975,35 +1220,8 @@
     "openedAt": "29.08.2015 17:30",
     "editedAt": "01.10.2015 16:11",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.400211,
-          49.0113393
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0109391",
-              "49.0114369",
-              "8.4000192",
-              "8.4008192"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49612090",
-        "osm_type": "way",
-        "osm_id": "3454369",
-        "display_name": "Zirkel, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.400211,
+    "latitude": 49.0113393
   },
   {
     "_id": "g8w4KWwbBBTbiY3Wj",
@@ -4014,36 +1232,8 @@
     "openedAt": "29.08.2015 11:28",
     "editedAt": "02.09.2015 11:36",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40908045664143,
-          49.00730885
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072258",
-              "49.0074028",
-              "8.408896",
-              "8.4092869"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83056436",
-        "osm_type": "way",
-        "osm_id": "108351526",
-        "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40908045664143,
+    "latitude": 49.00730885
   },
   {
     "_id": "MHqpu66GRJCrHHdnu",
@@ -4054,35 +1244,8 @@
     "openedAt": "26.08.2015 16:03",
     "editedAt": "27.08.2015 16:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39924137213726,
-          49.00944545
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0093671",
-              "49.0095433",
-              "8.3990976",
-              "8.3993874"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "84855630",
-        "osm_type": "way",
-        "osm_id": "108964368",
-        "display_name": "21, Herrenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39924137213726,
+    "latitude": 49.00944545
   },
   {
     "_id": "dwuLjyxbaNsNariqc",
@@ -4093,36 +1256,8 @@
     "openedAt": "26.08.2015 09:58",
     "editedAt": "26.08.2015 11:30",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "7bHjppDHhKp9ENiqT",
@@ -4133,36 +1268,8 @@
     "openedAt": "22.08.2015 18:40",
     "editedAt": "26.08.2015 15:57",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4104085,
-          49.0096087
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0095587",
-              "49.0096587",
-              "8.4103585",
-              "8.4104585"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "10110951",
-        "osm_type": "node",
-        "osm_id": "1014013321",
-        "display_name": "Genießer Ecke, 16, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
-      }
-    }
+    "longitude": 8.4104085,
+    "latitude": 49.0096087
   },
   {
     "_id": "EpfWyyCxP7Eeo975e",
@@ -4173,35 +1280,8 @@
     "openedAt": "20.08.2015 18:49",
     "editedAt": "20.08.2015 18:49",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3951131,
-          49.0082923
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0082423",
-              "49.0083423",
-              "8.3950631",
-              "8.3951631"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "48911854",
-        "osm_type": "node",
-        "osm_id": "3528913654",
-        "display_name": "Amadeus FiRe, 23, Karlstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "office"
-      }
-    }
+    "longitude": 8.3951131,
+    "latitude": 49.0082923
   },
   {
     "_id": "Asq5Ae3BHfXcEP4Kk",
@@ -4212,36 +1292,8 @@
     "openedAt": "19.08.2015 18:29",
     "editedAt": "21.08.2015 14:48",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3961913,
-          49.009338
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.009288",
-              "49.009388",
-              "8.3961413",
-              "8.3962413"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "4686682",
-        "osm_type": "node",
-        "osm_id": "524525457",
-        "display_name": "Pizza Hut, 34, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
-      }
-    }
+    "longitude": 8.3961913,
+    "latitude": 49.009338
   },
   {
     "_id": "QYs6ghthW2gpHmwTH",
@@ -4252,35 +1304,8 @@
     "openedAt": "13.08.2015 13:48",
     "editedAt": "14.08.2015 08:31",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4102247163659,
-          49.009779
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0096959",
-              "49.0098568",
-              "8.410107",
-              "8.4103499"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "85274510",
-        "osm_type": "way",
-        "osm_id": "108757480",
-        "display_name": "19, Waldhornstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.4102247163659,
+    "latitude": 49.009779
   },
   {
     "_id": "qjSXmFjeNvbed2Pyb",
@@ -4291,35 +1316,8 @@
     "openedAt": "10.08.2015 08:57",
     "editedAt": "10.08.2015 08:57",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39806208888889,
-          49.0094975
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0094471",
-              "49.0095509",
-              "8.3979648",
-              "8.3981583"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "85329573",
-        "osm_type": "way",
-        "osm_id": "108964467",
-        "display_name": "15, Erbprinzenhof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39806208888889,
+    "latitude": 49.0094975
   },
   {
     "_id": "AM6GWtcm6cYeFFchc",
@@ -4330,35 +1328,8 @@
     "openedAt": "03.08.2015 16:48",
     "editedAt": "05.08.2015 15:47",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.39726621365736,
-          49.01102695
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0109294",
-              "49.011078",
-              "8.397174",
-              "8.3973596"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "82780800",
-        "osm_type": "way",
-        "osm_id": "109093956",
-        "display_name": "18, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.39726621365736,
+    "latitude": 49.01102695
   },
   {
     "_id": "pkrHfrqgD8SgMpGnT",
@@ -4369,35 +1340,8 @@
     "openedAt": "01.08.2015 16:18",
     "editedAt": "03.08.2015 11:33",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3985099,
-          49.0105554
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0104379",
-              "49.0105554",
-              "8.3983094",
-              "8.3985099"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "50382713",
-        "osm_type": "way",
-        "osm_id": "3533995",
-        "display_name": "Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3985099,
+    "latitude": 49.0105554
   },
   {
     "_id": "gtw4BZpuyytAX46qd",
@@ -4408,36 +1352,8 @@
     "openedAt": "01.08.2015 16:14",
     "editedAt": "03.08.2015 11:32",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "yyA8knWZMCjEzEgQq",
@@ -4448,36 +1364,8 @@
     "openedAt": "31.07.2015 20:32",
     "editedAt": "03.08.2015 11:07",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3950796,
-          49.0079208
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0078708",
-              "49.0079708",
-              "8.3950296",
-              "8.3951296"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "677905",
-        "osm_type": "node",
-        "osm_id": "256026567",
-        "display_name": "Badische Backstub', 14b, Amalienstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
-      }
-    }
+    "longitude": 8.3950796,
+    "latitude": 49.0079208
   },
   {
     "_id": "osEc9bvcAfzqxXN6d",
@@ -4488,35 +1376,8 @@
     "openedAt": "31.07.2015 17:02",
     "editedAt": "03.08.2015 11:09",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "KhLxB5zposw88aok7",
@@ -4527,36 +1388,8 @@
     "openedAt": "29.07.2015 17:35",
     "editedAt": "12.08.2015 10:45",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4104085,
-          49.0096087
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0095587",
-              "49.0096587",
-              "8.4103585",
-              "8.4104585"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "10110951",
-        "osm_type": "node",
-        "osm_id": "1014013321",
-        "display_name": "Genießer Ecke, 16, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
-      }
-    }
+    "longitude": 8.4104085,
+    "latitude": 49.0096087
   },
   {
     "_id": "SnmoL85MsaDM9LLvg",
@@ -4567,35 +1400,8 @@
     "openedAt": "27.07.2015 12:01",
     "editedAt": "27.07.2015 12:01",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.41227777074604,
-          49.00748915
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.007395",
-              "49.0075652",
-              "8.4120594",
-              "8.412496"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "116101074",
-        "osm_type": "way",
-        "osm_id": "238175622",
-        "display_name": "19, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.41227777074604,
+    "latitude": 49.00748915
   },
   {
     "_id": "23hWjKN9y9vdfrS86",
@@ -4606,35 +1412,8 @@
     "openedAt": "27.07.2015 12:01",
     "editedAt": "27.07.2015 12:01",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.41227777074604,
-          49.00748915
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.007395",
-              "49.0075652",
-              "8.4120594",
-              "8.412496"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "116101074",
-        "osm_type": "way",
-        "osm_id": "238175622",
-        "display_name": "19, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "building"
-      }
-    }
+    "longitude": 8.41227777074604,
+    "latitude": 49.00748915
   },
   {
     "_id": "AoTFx6ZqNJTKFhurb",
@@ -4645,35 +1424,8 @@
     "openedAt": "24.07.2015 13:28",
     "editedAt": "03.08.2015 14:51",
     "channel": "WEB",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4081966,
-          49.0096349
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0096349",
-              "49.0096831",
-              "8.4081547",
-              "8.4081966"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "140886739",
-        "osm_type": "way",
-        "osm_id": "353062909",
-        "display_name": "Kronenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4081966,
+    "latitude": 49.0096349
   },
   {
     "_id": "XQiyhuBNk8R3MsaPf",
@@ -4684,36 +1436,8 @@
     "openedAt": "19.07.2015 19:40",
     "editedAt": "03.08.2015 10:39",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40289662163844,
-          49.00981135
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0097366",
-              "49.0098804",
-              "8.4027339",
-              "8.4030504"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "111256335",
-        "osm_type": "way",
-        "osm_id": "227423391",
-        "display_name": "Hirmer, 82a, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-      }
-    }
+    "longitude": 8.40289662163844,
+    "latitude": 49.00981135
   },
   {
     "_id": "bT5PxNwNQofh8tNmo",
@@ -4724,35 +1448,8 @@
     "openedAt": "19.07.2015 19:30",
     "editedAt": "05.08.2015 14:31",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.400211,
-          49.0113393
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0109391",
-              "49.0114369",
-              "8.4000192",
-              "8.4008192"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49612090",
-        "osm_type": "way",
-        "osm_id": "3454369",
-        "display_name": "Zirkel, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.400211,
+    "latitude": 49.0113393
   },
   {
     "_id": "ojT6kweaLuAfoB6wk",
@@ -4763,36 +1460,8 @@
     "openedAt": "11.07.2015 11:12",
     "editedAt": "16.07.2015 14:38",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "6j6Zo7f3Wpstho9eq",
@@ -4803,36 +1472,8 @@
     "openedAt": "11.07.2015 11:12",
     "editedAt": "11.07.2015 11:12",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "i7GSLgpT28LtycDF8",
@@ -4843,36 +1484,8 @@
     "openedAt": "11.07.2015 11:11",
     "editedAt": "16.07.2015 14:37",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "yxj6DSbwav6vYGkCC",
@@ -4883,36 +1496,8 @@
     "openedAt": "11.07.2015 11:10",
     "editedAt": "16.07.2015 14:37",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "L2vp92YeE6GstHgF5",
@@ -4923,36 +1508,8 @@
     "openedAt": "11.07.2015 10:26",
     "editedAt": "11.07.2015 10:26",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "aGQyLSSLuSbPBup5y",
@@ -4963,36 +1520,8 @@
     "openedAt": "11.07.2015 10:26",
     "editedAt": "16.07.2015 14:36",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "BZTvRGg5HnAsr39Gn",
@@ -5003,36 +1532,8 @@
     "openedAt": "11.07.2015 10:25",
     "editedAt": "16.07.2015 14:36",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3990596,
-          49.0107667
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107167",
-              "49.0108167",
-              "8.3990096",
-              "8.3991096"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "49593051",
-        "osm_type": "node",
-        "osm_id": "3609171295",
-        "display_name": "Flair, 15, Waldstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_jewelry.p.20.png"
-      }
-    }
+    "longitude": 8.3990596,
+    "latitude": 49.0107667
   },
   {
     "_id": "Ki4hE4iTyDR62QHMA",
@@ -5043,36 +1544,8 @@
     "openedAt": "05.07.2015 10:15",
     "editedAt": "05.07.2015 10:15",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4015973,
-          49.0103566
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0103066",
-              "49.0104066",
-              "8.4015473",
-              "8.4016473"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "22754256",
-        "osm_type": "node",
-        "osm_id": "2305037118",
-        "display_name": "MoccaSin Coffee, 6, Ritterstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_cafe.p.20.png"
-      }
-    }
+    "longitude": 8.4015973,
+    "latitude": 49.0103566
   },
   {
     "_id": "8myx4bnbAGgkubvrz",
@@ -5083,35 +1556,8 @@
     "openedAt": "03.07.2015 15:19",
     "editedAt": "03.07.2015 15:19",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "uoGWymff4HzTTSofN",
@@ -5122,35 +1568,8 @@
     "openedAt": "30.06.2015 21:41",
     "editedAt": "16.07.2015 12:23",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40044784479954,
-          49.0113834
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0110334",
-              "49.0117319",
-              "8.4002413",
-              "8.4012974"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "142152616",
-        "osm_type": "relation",
-        "osm_id": "338749",
-        "display_name": "Amtsgericht Karlsruhe, 23, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.40044784479954,
+    "latitude": 49.0113834
   },
   {
     "_id": "rdnGw4gAwHCeQGA56",
@@ -5161,36 +1580,8 @@
     "openedAt": "29.06.2015 20:03",
     "editedAt": "05.08.2015 14:33",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.396387,
-          49.0106956
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0106456",
-              "49.0107456",
-              "8.396337",
-              "8.396437"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "44297120",
-        "osm_type": "node",
-        "osm_id": "3174689261",
-        "display_name": "Unikat, 24, Passagehof, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-      }
-    }
+    "longitude": 8.396387,
+    "latitude": 49.0106956
   },
   {
     "_id": "LM9EuMp9EJj4AasHc",
@@ -5201,36 +1592,8 @@
     "openedAt": "29.06.2015 11:41",
     "editedAt": "06.07.2015 11:36",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4108945,
-          49.0096393
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0095893",
-              "49.0096893",
-              "8.4108445",
-              "8.4109445"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "13290401",
-        "osm_type": "node",
-        "osm_id": "1298856453",
-        "display_name": "Postbank, 14, Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4108945,
+    "latitude": 49.0096393
   },
   {
     "_id": "pxEcPPrWW2ZYAp6AK",
@@ -5241,35 +1604,8 @@
     "openedAt": "29.06.2015 09:19",
     "editedAt": "29.06.2015 09:19",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4046018,
-          49.0071204
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0070704",
-              "49.0071704",
-              "8.4045518",
-              "8.4046518"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "46328769",
-        "osm_type": "node",
-        "osm_id": "3497281357",
-        "display_name": "52, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4046018,
+    "latitude": 49.0071204
   },
   {
     "_id": "cfui9AoMTLRMTec39",
@@ -5280,36 +1616,8 @@
     "openedAt": "24.06.2015 19:22",
     "editedAt": "13.07.2015 09:09",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3961912,
-          49.0100808
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0100308",
-              "49.0101308",
-              "8.3961412",
-              "8.3962412"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "14289751",
-        "osm_type": "node",
-        "osm_id": "1305922991",
-        "display_name": "Nordsee, 134, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/food_fastfood.p.20.png"
-      }
-    }
+    "longitude": 8.3961912,
+    "latitude": 49.0100808
   },
   {
     "_id": "mZhDNFgheSNZsc62z",
@@ -5320,36 +1628,8 @@
     "openedAt": "21.06.2015 18:05",
     "editedAt": "22.06.2015 06:29",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4049817120103,
-          49.0104387
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0101959",
-              "49.010712",
-              "8.404126",
-              "8.4050829"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "144260874",
-        "osm_type": "relation",
-        "osm_id": "338753",
-        "display_name": "L-Bank, Staatsbank für Baden-Württemberg, 12, Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/money_bank2.p.20.png"
-      }
-    }
+    "longitude": 8.4049817120103,
+    "latitude": 49.0104387
   },
   {
     "_id": "8rCEJ4KMSnge4zDkd",
@@ -5360,35 +1640,8 @@
     "openedAt": "20.06.2015 21:53",
     "editedAt": "20.06.2015 21:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4014417,
-          49.0114868
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0114026",
-              "49.0115562",
-              "8.4013142",
-              "8.4016077"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "95644278",
-        "osm_type": "way",
-        "osm_id": "159916388",
-        "display_name": "Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4014417,
+    "latitude": 49.0114868
   },
   {
     "_id": "8KgyTrCNHLh4cfFBL",
@@ -5399,35 +1652,8 @@
     "openedAt": "20.06.2015 21:53",
     "editedAt": "20.06.2015 21:53",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4014417,
-          49.0114868
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0114026",
-              "49.0115562",
-              "8.4013142",
-              "8.4016077"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "95644278",
-        "osm_type": "way",
-        "osm_id": "159916388",
-        "display_name": "Schlossplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4014417,
+    "latitude": 49.0114868
   },
   {
     "_id": "FtXXuXBTcwZ8hku72",
@@ -5438,35 +1664,8 @@
     "openedAt": "11.06.2015 16:23",
     "editedAt": "11.06.2015 16:23",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.411305,
-          49.0075321
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0074821",
-              "49.0075821",
-              "8.411255",
-              "8.411355"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "23180307",
-        "osm_type": "node",
-        "osm_id": "2346220749",
-        "display_name": "PC Berdoudi, 25, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.411305,
+    "latitude": 49.0075321
   },
   {
     "_id": "zukyKh8JTQDhBphm5",
@@ -5477,35 +1676,8 @@
     "openedAt": "09.06.2015 16:00",
     "editedAt": "09.06.2015 16:00",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4102605,
-          49.0092628
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0092571",
-              "49.0092628",
-              "8.4102605",
-              "8.4103961"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "117221313",
-        "osm_type": "way",
-        "osm_id": "247034502",
-        "display_name": "Kaiserstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4102605,
+    "latitude": 49.0092628
   },
   {
     "_id": "Zxkg8yGxdcLZuZXBE",
@@ -5516,36 +1688,8 @@
     "openedAt": "09.06.2015 15:58",
     "editedAt": "09.06.2015 15:58",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3993543,
-          49.0099823
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0099323",
-              "49.0100323",
-              "8.3993043",
-              "8.3994043"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "21359297",
-        "osm_type": "node",
-        "osm_id": "2270539177",
-        "display_name": "Dr. med. Cong Toan Nguyen, 104, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/health_doctors.p.20.png"
-      }
-    }
+    "longitude": 8.3993543,
+    "latitude": 49.0099823
   },
   {
     "_id": "wa9LNRs4GoZ2CgvDS",
@@ -5556,36 +1700,8 @@
     "openedAt": "09.06.2015 11:34",
     "editedAt": "15.06.2015 16:12",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4104347,
-          49.0090043
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0089543",
-              "49.0090543",
-              "8.4103847",
-              "8.4104847"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "4146433",
-        "osm_type": "node",
-        "osm_id": "454973291",
-        "display_name": "Edeka Lukasiewicz, 1-3, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_supermarket.p.20.png"
-      }
-    }
+    "longitude": 8.4104347,
+    "latitude": 49.0090043
   },
   {
     "_id": "XRgqxs9m6bfuRirNW",
@@ -5596,36 +1712,8 @@
     "openedAt": "07.06.2015 19:04",
     "editedAt": "08.06.2015 14:40",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.396671,
-          49.010826
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.010776",
-              "49.010876",
-              "8.396621",
-              "8.396721"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "37245282",
-        "osm_type": "node",
-        "osm_id": "2912693998",
-        "display_name": "Gästehaus Kaiserpassage, 10, Kaiserpassage, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
-      }
-    }
+    "longitude": 8.396671,
+    "latitude": 49.010826
   },
   {
     "_id": "us9MZGFS9oJwn2daM",
@@ -5636,35 +1724,8 @@
     "openedAt": "07.06.2015 12:44",
     "editedAt": "09.06.2015 08:29",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4055667,
-          49.0107207
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0106707",
-              "49.0107707",
-              "8.4055167",
-              "8.4056167"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "45893125",
-        "osm_type": "node",
-        "osm_id": "3476728550",
-        "display_name": "10, Schlossplatz, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4055667,
+    "latitude": 49.0107207
   },
   {
     "_id": "jMRk5GM4hqzh5wKKQ",
@@ -5675,35 +1736,8 @@
     "openedAt": "31.05.2015 14:18",
     "editedAt": "02.06.2015 10:52",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4095889,
-          49.007353
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.007303",
-              "49.007403",
-              "8.4095389",
-              "8.4096389"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "7995415",
-        "osm_type": "node",
-        "osm_id": "868743792",
-        "display_name": "mükra electronic, 14, Fritz-Erler-Straße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop"
-      }
-    }
+    "longitude": 8.4095889,
+    "latitude": 49.007353
   },
   {
     "_id": "LGtEE78TbKDa5myfZ",
@@ -5714,35 +1748,8 @@
     "openedAt": "30.05.2015 08:16",
     "editedAt": "13.07.2015 09:06",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4030473,
-          49.0072544
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072044",
-              "49.0073044",
-              "8.4029973",
-              "8.4030973"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "1489739",
-        "osm_type": "node",
-        "osm_id": "330830310",
-        "display_name": "IHK, 2-12, Erbprinzenstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "amenity"
-      }
-    }
+    "longitude": 8.4030473,
+    "latitude": 49.0072544
   },
   {
     "_id": "Z8aMwGByzugQqftBq",
@@ -5753,35 +1760,8 @@
     "openedAt": "28.05.2015 10:29",
     "editedAt": "28.05.2015 10:29",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.3963933,
-          49.0112149
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0109553",
-              "49.0118525",
-              "8.3956361",
-              "8.3982534"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "95667179",
-        "osm_type": "way",
-        "osm_id": "159902718",
-        "display_name": "Akademiestraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.3963933,
+    "latitude": 49.0112149
   },
   {
     "_id": "69x7hAf3Tex8FDXxA",
@@ -5792,36 +1772,8 @@
     "openedAt": "27.05.2015 21:09",
     "editedAt": "27.05.2015 21:09",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.40908045664143,
-          49.00730885
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0072258",
-              "49.0074028",
-              "8.408896",
-              "8.4092869"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "83056436",
-        "osm_type": "way",
-        "osm_id": "108351526",
-        "display_name": "Stadtarchiv, 29, Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "tourism",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/tourist_museum.p.20.png"
-      }
-    }
+    "longitude": 8.40908045664143,
+    "latitude": 49.00730885
   },
   {
     "_id": "RNHGAvZyEN3E3srE7",
@@ -5832,35 +1784,8 @@
     "openedAt": "27.05.2015 21:05",
     "editedAt": "27.05.2015 21:05",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4048853,
-          49.0070752
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0069047",
-              "49.0072054",
-              "8.4038351",
-              "8.4057163"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "53193283",
-        "osm_type": "way",
-        "osm_id": "4188464",
-        "display_name": "Markgrafenstraße, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4048853,
+    "latitude": 49.0070752
   },
   {
     "_id": "bJdR47jrSYvCLGMr8",
@@ -5871,36 +1796,8 @@
     "openedAt": "26.05.2015 07:44",
     "editedAt": "29.05.2015 15:31",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4009948,
-          49.009892
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.009842",
-              "49.009942",
-              "8.4009448",
-              "8.4010448"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "47548205",
-        "osm_type": "node",
-        "osm_id": "3286558871",
-        "display_name": "KiK, 94, Kaiserstraße, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "shop",
-        "icon": "http://nominatim.openstreetmap.org/images/mapicons/shopping_clothes.p.20.png"
-      }
-    }
+    "longitude": 8.4009948,
+    "latitude": 49.009892
   },
   {
     "_id": "DPgHSsYbDkny8Fznn",
@@ -5911,35 +1808,8 @@
     "openedAt": "24.05.2015 08:32",
     "editedAt": "24.05.2015 08:32",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4011282,
-          49.0084632
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0082048",
-              "49.0086804",
-              "8.4004425",
-              "8.4019441"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "89992905",
-        "osm_type": "way",
-        "osm_id": "135628321",
-        "display_name": "Friedrichsplatz, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76133, Deutschland",
-        "class": "highway"
-      }
-    }
+    "longitude": 8.4011282,
+    "latitude": 49.0084632
   },
   {
     "_id": "4fhDEgw9DjBfzSoTQ",
@@ -5950,34 +1820,7 @@
     "openedAt": "18.05.2015 23:29",
     "editedAt": "18.05.2015 23:29",
     "channel": "MOBILE",
-    "location": {
-      "center": {
-        "type": "Point",
-        "coordinates": [
-          8.4011469,
-          49.0108364
-        ]
-      },
-      "bbox": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              "49.0107864",
-              "49.0108864",
-              "8.4010969",
-              "8.4011969"
-            ]
-          ]
-        ]
-      },
-      "data": {
-        "place_id": "25347729",
-        "osm_type": "node",
-        "osm_id": "2459458525",
-        "display_name": "38, Zirkel, Innenstadt-West, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-Württemberg, 76131, Deutschland",
-        "class": "place"
-      }
-    }
+    "longitude": 8.4011469,
+    "latitude": 49.0108364
   }
 ]
